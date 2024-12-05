@@ -16,6 +16,10 @@ body {
     align-items: center;
 }
 
+body *{
+    color: var(--text-color);
+}
+
 .background-pattern {
     position: fixed;
     top: 0;
@@ -142,7 +146,8 @@ h3 {
 }
 
 .header-right {
-    display: flex;
+    display: none;
+    /*display: flex;*/
     align-items: center;
     gap: 2rem;
 }
