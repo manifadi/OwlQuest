@@ -49,377 +49,343 @@ question_id,question,categories,answer_1,answer_2,answer_3,answer_4,correct_answ
 48,Welches Land ist bekannt für seine Pyramiden?,Geographie,Mexiko,China,Ägypten,Indien,2
 49,Wie viele Farben hat ein Regenbogen?,Wissenschaft,5,6,7,8,2
 50,Wer komponierte die Oper "Carmen"?,Musik,Georges Bizet,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-51,Was ist die Hauptstadt von Argentinien?,Geographie,Buenos Aires,Rio de Janeiro,Santiago,Lima,0
-52,Welches Tier ist bekannt für seine Fähigkeit, Tinte zu versprühen?,Biologie,Oktopus,Seepferdchen,Qualle,Hai,0
-53,Wie viele Ringe hat das Olympische Logo?,Sport,3,4,5,6,2
-54,Wer schrieb "1984"?,Literatur,George Orwell,Aldous Huxley,Ray Bradbury,Philip K. Dick,0
-55,Welches Element hat das chemische Symbol 'Na'?,Chemie,Natrium,Neon,Nickel,Nitrogen,0
-56,In welchem Jahr begann der Erste Weltkrieg?,Geschichte,1912,1914,1916,1918,1
-57,Wer gilt als Erfinder des Telefons?,Technologie,Nikola Tesla,Alexander Graham Bell,Thomas Edison,Guglielmo Marconi,1
-58,Welches Land ist bekannt für den Eiffelturm?,Geographie,Deutschland,Italien,Frankreich,Spanien,2
-59,Wie viele Beine hat eine Spinne?,Biologie,6,8,10,12,1
-60,Wer komponierte die Oper "La Traviata"?,Musik,Giuseppe Verdi,Richard Wagner,Franz Schubert,Ludwig van Beethoven,0
-61,Was ist die Hauptstadt von Ägypten?,Geographie,Kairo,Alexandria,Luxor,Assuan,0
-62,Welches Tier ist bekannt für seine Fähigkeit, sich zu tarnen?,Biologie,Chamäleon,Gecko,Frosch,Schlange,0
-63,Wie viele Seiten hat ein Würfel?,Mathematik,4,6,8,10,1
-64,Wer schrieb "Die Verwandlung"?,Literatur,Franz Kafka,Thomas Mann,Hermann Hesse,Stefan Zweig,0
-65,Welches Element hat das chemische Symbol 'Hg'?,Chemie,Helium,Hydrogen,Quecksilber,Gold,2
-66,In welchem Jahr wurde die Berliner Mauer errichtet?,Geschichte,1959,1961,1963,1965,1
-67,Wer gilt als Erfinder der Glühbirne?,Technologie,Thomas Edison,Nikola Tesla,Alexander Graham Bell,Guglielmo Marconi,0
-68,Welches Land ist bekannt für die Chinesische Mauer?,Geographie,Japan,China,Indien,Korea,1
-69,Wie viele Flügel hat ein Schmetterling?,Biologie,2,4,6,8,1
-70,Wer komponierte die Oper "Der Barbier von Sevilla"?,Musik,Gioachino Rossini,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-71,Was ist die Hauptstadt von Indien?,Geographie,Neu-Delhi,Mumbai,Kalkutta,Chennai,0
-72,Welches Tier ist bekannt für seine Fähigkeit, im Dunkeln zu sehen?,Biologie,Eule,Fledermaus,Katze,Hund,1
-73,Wie viele Minuten hat eine Stunde?,Wissenschaft,50,55,60,65,2
-74,Wer schrieb "Der Herr der Ringe"?,Literatur,J.R.R. Tolkien,C.S. Lewis,George R.R. Martin,J.K. Rowling,0
-75,Welches Element hat das chemische Symbol 'O'?,Chemie,Osmium,Oxygen,Oganesson,Oxid,1
-76,In welchem Jahr landete der erste Mensch auf dem Mond?,Geschichte,1967,1968,1969,1970,2
-77,Wer gilt als Erfinder des Automobils?,Technologie,Henry Ford,Karl Benz,Nikolaus Otto,Gottlieb Daimler,1
-78,Welches Land ist bekannt für den Taj Mahal?,Geographie,Indien,Pakistan,Bangladesch,Nepal,0
-79,Wie viele Zähne hat ein erwachsener Mensch normalerweise?,Biologie,28,30,32,34,2
-80,Wer komponierte die Oper "Die Hochzeit des Figaro"?,Musik,Wolfgang Amadeus Mozart,Ludwig van Beethoven,Johann Sebastian Bach,Franz Schubert,0
-81,Was ist die Hauptstadt von Russland?,Geographie,Moskau,St. Petersburg,Nowosibirsk,Kasan,0
-82,Welches Tier ist bekannt für seine Fähigkeit, schnell zu rennen?,Biologie,Elefant,Gepard,Löwe,Zebra,1
-83,Wie viele Sekunden hat eine Minute?,Wissenschaft,50,55,60,65,2
-84,Wer schrieb "Harry Potter"?,Literatur,J.K. Rowling,Stephen King,George R.R. Martin,Philip Pullman,0
-85,Welches Element hat das chemische Symbol 'C'?,Chemie,Kohlenstoff,Kalium,Calcium,Chrom,0
-86,In welchem Jahr wurde die Unabhängigkeitserklärung der USA unterzeichnet?,Geschichte,1774,1776,1778,1780,1
-87,Wer gilt als Erfinder des Internets?,Technologie,Tim Berners-Lee,Vint Cerf,Robert Kahn,Marc Andreessen,0
-88,Welches Land ist bekannt für den Machu Picchu?,Geographie,Chile,Argentinien,Peru,Brasilien,2
-89,Wie viele Beine hat eine Ameise?,Biologie,4,6,8,10,1
-90,Wer komponierte die Oper "Tosca"?,Musik,Giuseppe Verdi,Giacomo Puccini,Richard Wagner,Johann Strauss,1
-100,Was ist die Hauptstadt von Spanien?,Geographie,Madrid,Barcelona,Sevilla,Valencia,0
-101,Was ist die Hauptstadt von Norwegen?,Geographie,Oslo,Bergen,Trondheim,Stavanger,0
-102,Welches Tier ist bekannt für seinen Panzer?,Biologie,Schildkröte,Krokodil,Schlange,Frosch,0
-103,Wie viele Spieler hat eine Fußballmannschaft auf dem Feld?,Sport,9,10,11,12,2
-104,Wer schrieb "Die drei Musketiere"?,Literatur,Alexandre Dumas,Victor Hugo,Guy de Maupassant,Jules Verne,0
-105,Welches Element hat das chemische Symbol 'K'?,Chemie,Kohlenstoff,Kalium,Kupfer,Kalzium,1
-106,In welchem Jahr wurde die Mauer in Berlin abgerissen?,Geschichte,1987,1989,1991,1993,1
-107,Wer gilt als Erfinder der Relativitätstheorie?,Wissenschaft,Isaac Newton,Niels Bohr,Albert Einstein,Galileo Galilei,2
-108,Welches Land ist bekannt für die Akropolis?,Geographie,Italien,Griechenland,Ägypten,Spanien,1
-109,Wie viele Planeten gibt es in unserem Sonnensystem?,Astronomie,7,8,9,10,1
-110,Wer komponierte die Oper "Don Giovanni"?,Musik,Wolfgang Amadeus Mozart,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-111,Was ist die Hauptstadt von Schweden?,Geographie,Stockholm,Göteborg,Malmö,Uppsala,0
-112,Welches Tier ist bekannt für seine Fähigkeit, in der Wüste zu überleben?,Biologie,Kamel,Elefant,Löwe,Nashorn,0
-113,Wie viele Nullen hat eine Milliarde?,Mathematik,6,7,8,9,2
-114,Wer schrieb "Faust"?,Literatur,Johann Wolfgang von Goethe,Friedrich Schiller,Heinrich Heine,Thomas Mann,0
-115,Welches Element hat das chemische Symbol 'Pb'?,Chemie,Blei,Bismut,Platin,Phosphor,0
-116,In welchem Jahr begann die Französische Revolution?,Geschichte,1787,1789,1791,1793,1
-117,Wer gilt als Erfinder der Dampfmaschine?,Technologie,James Watt,Thomas Newcomen,George Stephenson,Richard Trevithick,0
-118,Welches Land ist bekannt für die Pyramiden von Gizeh?,Geographie,Ägypten,Mexiko,Peru,Indien,0
-119,Wie viele Flügel hat ein Flugzeug?,Technologie,2,4,6,8,0
-120,Wer komponierte die Oper "Aida"?,Musik,Giuseppe Verdi,Richard Wagner,Franz Schubert,Ludwig van Beethoven,0
-121,Was ist die Hauptstadt von Portugal?,Geographie,Lissabon,Porto,Coimbra,Braga,0
-122,Welches Tier ist bekannt für seine Fähigkeit, zu fliegen?,Biologie,Vogel,Fledermaus,Schmetterling,Libelle,0
-123,Wie viele Tage hat der Februar in einem Schaltjahr?,Wissenschaft,28,29,30,31,1
-124,Wer schrieb "Der kleine Prinz"?,Literatur,Antoine de Saint-Exupéry,Marcel Proust,Jean-Paul Sartre,Albert Camus,0
-125,Welches Element hat das chemische Symbol 'Zn'?,Chemie,Zink,Zirconium,Zinn,Zeolith,0
-126,In welchem Jahr wurde die erste Mondlandung durchgeführt?,Geschichte,1965,1967,1969,1971,2
-127,Wer gilt als Erfinder des Computers?,Technologie,Charles Babbage,Alan Turing,John von Neumann,Steve Jobs,0
-128,Welches Land ist bekannt für den Parthenon?,Geographie,Italien,Griechenland,Spanien,Portugal,1
-129,Wie viele Beine hat ein Tausendfüßler?,Biologie,20,40,60,80,1
-130,Wer komponierte die Oper "Die Fledermaus"?,Musik,Johann Strauss,Giuseppe Verdi,Richard Wagner,Franz Schubert,0
-131,Was ist die Hauptstadt von Finnland?,Geographie,Helsinki,Tampere,Turku,Oulu,0
-132,Welches Tier ist bekannt für seine Fähigkeit, zu schwimmen?,Biologie,Fisch,Delfin,Wal,Hai,0
-133,Wie viele Stunden hat ein Tag?,Wissenschaft,22,23,24,25,2
-134,Wer schrieb "Moby Dick"?,Literatur,Herman Melville,Mark Twain,Charles Dickens,Edgar Allan Poe,0
-135,Welches Element hat das chemische Symbol 'Cu'?,Chemie,Kupfer,Chrom,Kobalt,Kalium,0
-136,In welchem Jahr wurde die Unabhängigkeitserklärung der USA unterzeichnet?,Geschichte,1774,1776,1778,1780,1
-137,Wer gilt als Erfinder des Telefons?,Technologie,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Guglielmo Marconi,0
-138,Welches Land ist bekannt für die Chinesische Mauer?,Geographie,China,Japan,Indien,Korea,0
-139,Wie viele Herzen hat ein Regenwurm?,Biologie,1,2,3,5,3
-140,Wer komponierte die Oper "Rigoletto"?,Musik,Giuseppe Verdi,Richard Wagner,Franz Schubert,Ludwig van Beethoven,0
-150,Was ist die Hauptstadt von Dänemark?,Geographie,Kopenhagen,Aarhus,Odense,Aalborg,0
-151,Was ist die Hauptstadt von Südkorea?,Geographie,Seoul,Busan,Incheon,Daegu,0
-152,Welches Tier ist bekannt für seine Fähigkeit, zu springen?,Biologie,Känguru,Frosch,Hase,Grashüpfer,0
-153,Wie viele Nullen hat eine Billion?,Mathematik,9,10,11,12,2
-154,Wer schrieb "Das Kapital"?,Literatur,Karl Marx,Friedrich Engels,Max Weber,Adam Smith,0
-155,Welches Element hat das chemische Symbol 'Si'?,Chemie,Silizium,Schwefel,Silber,Strontium,0
-156,In welchem Jahr wurde die Europäische Union gegründet?,Geschichte,1990,1993,1995,1997,1
-157,Wer gilt als Erfinder des Mikroskops?,Wissenschaft,Zacharias Janssen,Antonie van Leeuwenhoek,Robert Hooke,Louis Pasteur,0
-158,Welches Land ist bekannt für den Mount Everest?,Geographie,China,Nepal,Bhutan,Indien,1
-159,Wie viele Flügelpaare hat eine Biene?,Biologie,1,2,3,4,1
-160,Wer komponierte die Oper "Turandot"?,Musik,Giacomo Puccini,Richard Strauss,Giuseppe Verdi,Franz Lehár,0
-161,Was ist die Hauptstadt von Neuseeland?,Geographie,Wellington,Auckland,Christchurch,Hamilton,0
-162,Welches Tier ist bekannt für seinen Rüssel?,Biologie,Elefant,Ameisenbär,Nashorn,Tapir,0
-163,Wie viele Farben hat die Flagge der USA?,Politik,2,3,4,5,1
-164,Wer schrieb "Der Glöckner von Notre-Dame"?,Literatur,Victor Hugo,Alexandre Dumas,Gustave Flaubert,Émile Zola,0
-165,Welches Element hat das chemische Symbol 'Ne'?,Chemie,Neon,Natrium,Nickel,Neptunium,0
-166,In welchem Jahr wurde die UNO gegründet?,Geschichte,1943,1945,1947,1949,1
-167,Wer gilt als Erfinder der Elektrizität?,Wissenschaft,Benjamin Franklin,Thomas Edison,Nikola Tesla,Michael Faraday,0
-168,Welches Land ist bekannt für die Sphinx?,Geographie,Ägypten,Griechenland,Italien,Indien,0
-169,Wie viele Beine hat ein Hummer?,Biologie,6,8,10,12,2
-170,Wer komponierte die Oper "Die Meistersinger von Nürnberg"?,Musik,Richard Wagner,Johann Strauss,Franz Schubert,Ludwig van Beethoven,0
-171,Was ist die Hauptstadt von Kanada?,Geographie,Ottawa,Toronto,Vancouver,Montreal,0
-172,Welches Tier ist bekannt für seine Fähigkeit, Netze zu spinnen?,Biologie,Spinne,Raupe,Seidenraupe,Schmetterling,0
-173,Wie viele Kontinente gibt es auf der Erde?,Geographie,5,6,7,8,2
-174,Wer schrieb "Der alte Mann und das Meer"?,Literatur,Ernest Hemingway,F. Scott Fitzgerald,John Steinbeck,Mark Twain,0
-175,Welches Element hat das chemische Symbol 'Ar'?,Chemie,Argon,Arsen,Aluminium,Antimon,0
-176,In welchem Jahr wurde die Berliner Mauer errichtet?,Geschichte,1959,1961,1963,1965,1
-177,Wer gilt als Erfinder des Fernsehens?,Technologie,John Logie Baird,Philo Farnsworth,Nikola Tesla,Thomas Edison,0
-178,Welches Land ist bekannt für die Terrakotta-Armee?,Geographie,China,Japan,Indien,Vietnam,0
-179,Wie viele Augen hat eine Biene?,Biologie,2,3,4,5,3
-180,Wer komponierte die Oper "Der fliegende Holländer"?,Musik,Richard Wagner,Giuseppe Verdi,Franz Schubert,Ludwig van Beethoven,0
-181,Was ist die Hauptstadt von Mexiko?,Geographie,Mexiko-Stadt,Guadalajara,Monterrey,Cancún,0
-182,Welches Tier ist bekannt für seine Fähigkeit, sich zu tarnen?,Biologie,Chamäleon,Oktopus,Fisch,Frosch,0
-183,Wie viele Tage hat der Monat Februar in einem normalen Jahr?,Wissenschaft,28,29,30,31,0
-184,Wer schrieb "Stolz und Vorurteil"?,Literatur,Jane Austen,Charlotte Brontë,Emily Dickinson,Virginia Woolf,0
-185,Welches Element hat das chemische Symbol 'Fe'?,Chemie,Eisen,Ferrum,Fluor,Francium,0
-186,In welchem Jahr endete der Erste Weltkrieg?,Geschichte,1916,1918,1920,1922,1
-187,Wer gilt als Erfinder des Automobils?,Technologie,Karl Benz,Henry Ford,Nikolaus Otto,Gottlieb Daimler,0
-188,Welches Land ist bekannt für den Eiffelturm?,Geographie,Frankreich,Spanien,Italien,Deutschland,0
-189,Wie viele Beine hat eine Ameise?,Biologie,4,6,8,10,1
-190,Wer komponierte die Oper "Madame Butterfly"?,Musik,Giacomo Puccini,Giuseppe Verdi,Richard Wagner,Franz Lehár,0
-200,Was ist die Hauptstadt von Thailand?,Geographie,Bangkok,Phuket,Chiang Mai,Pattaya,0
-201,Was ist die Hauptstadt von Vietnam?,Geographie,Hanoi,Ho-Chi-Minh-Stadt,Da Nang,Hue,0
-202,Welches Tier ist bekannt für seine Fähigkeit, im Dunkeln zu sehen?,Biologie,Eule,Fledermaus,Katze,Hund,1
-203,Wie viele Planeten hat unser Sonnensystem?,Astronomie,7,8,9,10,1
-204,Wer schrieb "Die göttliche Komödie"?,Literatur,Dante Alighieri,Giovanni Boccaccio,Francesco Petrarca,Niccolò Machiavelli,0
-205,Welches Element hat das chemische Symbol 'Ca'?,Chemie,Kohlenstoff,Kalzium,Kalium,Chlor,1
-206,In welchem Jahr fand die Mondlandung statt?,Geschichte,1967,1969,1971,1973,1
-207,Wer gilt als Erfinder der Glühbirne?,Technologie,Thomas Edison,Nikola Tesla,Alexander Graham Bell,James Watt,0
-208,Welches Land ist bekannt für die Freiheitsstatue?,Geographie,Kanada,USA,Frankreich,England,1
-209,Wie viele Beine hat ein Tausendfüßler?,Biologie,20,40,60,80,1
-210,Wer komponierte die Oper "La Bohème"?,Musik,Giacomo Puccini,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-211,Was ist die Hauptstadt von Kolumbien?,Geographie,Bogotá,Medellín,Cali,Cartagena,0
-212,Welches Tier ist bekannt für seine Fähigkeit, Tinte zu versprühen?,Biologie,Oktopus,Seepferdchen,Qualle,Hai,0
-213,Wie viele Farben hat ein Regenbogen?,Wissenschaft,5,6,7,8,2
-214,Wer schrieb "Der Graf von Monte Christo"?,Literatur,Alexandre Dumas,Victor Hugo,Guy de Maupassant,Jules Verne,0
-215,Welches Element hat das chemische Symbol 'Ni'?,Chemie,Natrium,Nickel,Neon,Nitrogen,1
-216,In welchem Jahr begann der Zweite Weltkrieg?,Geschichte,1937,1939,1941,1943,1
-217,Wer gilt als Erfinder des Penicillins?,Wissenschaft,Alexander Fleming,Louis Pasteur,Robert Koch,Joseph Lister,0
-218,Welches Land ist bekannt für die Christusstatue?,Geographie,Argentinien,Brasilien,Chile,Peru,1
-219,Wie viele Flügel hat ein Flugzeug?,Technologie,2,4,6,8,0
-220,Wer komponierte die Oper "Carmen"?,Musik,Georges Bizet,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-221,Was ist die Hauptstadt von Peru?,Geographie,Lima,Cusco,Arequipa,Trujillo,0
-222,Welches Tier ist bekannt für seine Fähigkeit, zu fliegen?,Biologie,Vogel,Fledermaus,Schmetterling,Libelle,0
-223,Wie viele Minuten hat eine Stunde?,Wissenschaft,50,55,60,65,2
-224,Wer schrieb "Anna Karenina"?,Literatur,Leo Tolstoi,Fjodor Dostojewski,Anton Tschechow,Iwan Turgenew,0
-225,Welches Element hat das chemische Symbol 'Cl'?,Chemie,Chlor,Kalzium,Chrom,Cobalt,0
-226,In welchem Jahr fand der Fall der Berliner Mauer statt?,Geschichte,1987,1989,1991,1993,1
-227,Wer gilt als Erfinder des Telefons?,Technologie,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Guglielmo Marconi,0
-228,Welches Land ist bekannt für die Pyramiden von Gizeh?,Geographie,Ägypten,Mexiko,Peru,Indien,0
-229,Wie viele Beine hat ein Hummer?,Biologie,6,8,10,12,2
-230,Wer komponierte die Oper "Die Zauberflöte"?,Musik,Wolfgang Amadeus Mozart,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-231,Was ist die Hauptstadt von Griechenland?,Geographie,Athen,Thessaloniki,Patras,Heraklion,0
-232,Welches Tier ist bekannt für seine Fähigkeit, sich zu tarnen?,Biologie,Chamäleon,Oktopus,Fisch,Frosch,0
-233,Wie viele Sekunden hat eine Minute?,Wissenschaft,50,55,60,65,2
-234,Wer schrieb "Der Prozess"?,Literatur,Franz Kafka,Thomas Mann,Hermann Hesse,Stefan Zweig,0
-235,Welches Element hat das chemische Symbol 'Ag'?,Chemie,Silber,Gold,Argon,Aluminium,0
-236,In welchem Jahr wurde die Unabhängigkeitserklärung der USA unterzeichnet?,Geschichte,1774,1776,1778,1780,1
-237,Wer gilt als Erfinder des Automobils?,Technologie,Karl Benz,Henry Ford,Nikolaus Otto,Gottlieb Daimler,0
-238,Welches Land ist bekannt für die Chinesische Mauer?,Geographie,China,Japan,Indien,Korea,0
-239,Wie viele Augen hat eine Spinne?,Biologie,6,8,10,12,1
-240,Wer komponierte die Oper "Rigoletto"?,Musik,Giuseppe Verdi,Richard Wagner,Franz Schubert,Ludwig van Beethoven,0
-241,Was ist die Hauptstadt von Dänemark?,Geographie,Kopenhagen,Aarhus,Odense,Aalborg,0
-242,Welches Tier ist bekannt für seine Fähigkeit, zu springen?,Biologie,Känguru,Frosch,Hase,Grashüpfer,0
-243,Wie viele Nullen hat eine Billion?,Mathematik,9,10,11,12,2
-244,Wer schrieb "Das Kapital"?,Literatur,Karl Marx,Friedrich Engels,Max Weber,Adam Smith,0
-245,Welches Element hat das chemische Symbol 'Zn'?,Chemie,Zink,Zirconium,Zinn,Zeolith,0
-246,In welchem Jahr wurde die Europäische Union gegründet?,Geschichte,1990,1993,1995,1997,1
-247,Wer gilt als Erfinder des Mikroskops?,Wissenschaft,Zacharias Janssen,Antonie van Leeuwenhoek,Robert Hooke,Louis Pasteur,0
-248,Welches Land ist bekannt für den Mount Everest?,Geographie,China,Nepal,Bhutan,Indien,1
-249,Wie viele Flügelpaare hat eine Biene?,Biologie,1,2,3,4,1
-250,Wer komponierte die Oper "Turandot"?,Musik,Giacomo Puccini,Richard Strauss,Giuseppe Verdi,Franz Lehár,0
-251,Was ist die Hauptstadt von Neuseeland?,Geographie,Wellington,Auckland,Christchurch,Hamilton,0
-252,Welches Tier ist bekannt für seinen Rüssel?,Biologie,Elefant,Ameisenbär,Nashorn,Tapir,0
-253,Wie viele Farben hat die Flagge der USA?,Politik,2,3,4,5,1
-254,Wer schrieb "Der Glöckner von Notre-Dame"?,Literatur,Victor Hugo,Alexandre Dumas,Gustave Flaubert,Émile Zola,0
-255,Welches Element hat das chemische Symbol 'Ne'?,Chemie,Neon,Natrium,Nickel,Neptunium,0
-256,In welchem Jahr wurde die UNO gegründet?,Geschichte,1943,1945,1947,1949,1
-257,Wer gilt als Erfinder der Elektrizität?,Wissenschaft,Benjamin Franklin,Thomas Edison,Nikola Tesla,Michael Faraday,0
-258,Welches Land ist bekannt für die Sphinx?,Geographie,Ägypten,Griechenland,Italien,Indien,0
-259,Wie viele Beine hat ein Hummer?,Biologie,6,8,10,12,2
-260,Wer komponierte die Oper "Die Meistersinger von Nürnberg"?,Musik,Richard Wagner,Johann Strauss,Franz Schubert,Ludwig van Beethoven,0
-261,Was ist die Hauptstadt von Kanada?,Geographie,Ottawa,Toronto,Vancouver,Montreal,0
-262,Welches Tier ist bekannt für seine Fähigkeit, Netze zu spinnen?,Biologie,Spinne,Raupe,Seidenraupe,Schmetterling,0
-263,Wie viele Kontinente gibt es auf der Erde?,Geographie,5,6,7,8,2
-264,Wer schrieb "Der alte Mann und das Meer"?,Literatur,Ernest Hemingway,F. Scott Fitzgerald,John Steinbeck,Mark Twain,0
-265,Welches Element hat das chemische Symbol 'Ar'?,Chemie,Argon,Arsen,Aluminium,Antimon,0
-266,In welchem Jahr wurde die Berliner Mauer errichtet?,Geschichte,1959,1961,1963,1965,1
-267,Wer gilt als Erfinder des Fernsehens?,Technologie,John Logie Baird,Philo Farnsworth,Nikola Tesla,Thomas Edison,0
-268,Welches Land ist bekannt für die Terrakotta-Armee?,Geographie,China,Japan,Indien,Vietnam,0
-269,Wie viele Augen hat eine Biene?,Biologie,2,3,4,5,3
-270,Wer komponierte die Oper "Der fliegende Holländer"?,Musik,Richard Wagner,Giuseppe Verdi,Franz Schubert,Ludwig van Beethoven,0
-271,Was ist die Hauptstadt von Mexiko?,Geographie,Mexiko-Stadt,Guadalajara,Monterrey,Cancún,0
-272,Welches Tier ist bekannt für seine Fähigkeit, sich zu tarnen?,Biologie,Chamäleon,Oktopus,Fisch,Frosch,0
-273,Wie viele Tage hat der Monat Februar in einem normalen Jahr?,Wissenschaft,28,29,30,31,0
-274,Wer schrieb "Stolz und Vorurteil"?,Literatur,Jane Austen,Charlotte Brontë,Emily Dickinson,Virginia Woolf,0
-275,Welches Element hat das chemische Symbol 'Fe'?,Chemie,Eisen,Ferrum,Fluor,Francium,0
-276,In welchem Jahr endete der Erste Weltkrieg?,Geschichte,1916,1918,1920,1922,1
-277,Wer gilt als Erfinder des Automobils?,Technologie,Karl Benz,Henry Ford,Nikolaus Otto,Gottlieb Daimler,0
-278,Welches Land ist bekannt für den Eiffelturm?,Geographie,Frankreich,Spanien,Italien,Deutschland,0
-279,Wie viele Beine hat eine Ameise?,Biologie,4,6,8,10,1
-280,Wer komponierte die Oper "Madame Butterfly"?,Musik,Giacomo Puccini,Giuseppe Verdi,Richard Wagner,Franz Lehár,0
-281,Was ist die Hauptstadt von Äthiopien?,Geographie,Addis Abeba,Mogadischu,Nairobi,Kampala,0
-282,Welches Tier ist bekannt für seine Fähigkeit, rückwärts zu fliegen?,Biologie,Kolibri,Fledermaus,Libelle,Schmetterling,0
-283,Wie viele Tasten hat ein Standard-Computerkeyboard?,Technologie,101,102,104,105,0
-284,Wer schrieb "Die Abenteuer des Tom Sawyer"?,Literatur,Mark Twain,Charles Dickens,Jack London,Ernest Hemingway,0
-285,Welches Element hat das chemische Symbol 'He'?,Chemie,Helium,Hydrogen,Hafnium,Hassium,0
-286,In welchem Jahr wurde die Titanic versenkt?,Geschichte,1910,1912,1914,1916,1
-287,Wer gilt als der Vater der Psychoanalyse?,Psychologie,Sigmund Freud,Carl Jung,Alfred Adler,Wilhelm Wundt,0
-288,Welches Land ist bekannt für seine Tulpen?,Geographie,Niederlande,Belgien,Frankreich,Deutschland,0
-289,Wie viele Knochen hat ein menschliches Skelett?,Biologie,204,206,208,210,1
-290,Wer komponierte die Oper "Die Entführung aus dem Serail"?,Musik,Wolfgang Amadeus Mozart,Joseph Haydn,Ludwig van Beethoven,Johann Strauss,0
-291,Was ist die Hauptstadt von Saudi-Arabien?,Geographie,Riad,Jeddah,Medina,Dammam,0
-292,Welches Tier ist bekannt für seine Fähigkeit, im Wasser zu leben?,Biologie,Delphin,Wal,Seehund,Krokodil,0
-293,Wie viele Farben hat die Flagge von Deutschland?,Politik,2,3,4,5,1
-294,Wer schrieb "Das Bildnis des Dorian Gray"?,Literatur,Oscar Wilde,George Bernard Shaw,James Joyce,Virginia Woolf,0
-295,Welches Element hat das chemische Symbol 'Mg'?,Chemie,Mangan,Magnesium,Quecksilber,Molybdän,1
-296,In welchem Jahr begann der Amerikanische Bürgerkrieg?,Geschichte,1859,1861,1863,1865,1
-297,Wer gilt als Erfinder der Druckpresse?,Technologie,Johannes Gutenberg,Leonardo da Vinci,Isaac Newton,Thomas Edison,0
-298,Welches Land ist bekannt für den Schiefen Turm von Pisa?,Geographie,Italien,Spanien,Frankreich,Portugal,0
-299,Wie viele Herzen hat ein Regenwurm?,Biologie,1,2,5,10,2
-300,Wer komponierte die Oper "Lohengrin"?,Musik,Richard Wagner,Giacomo Puccini,Giuseppe Verdi,Franz Schubert,0
-301,Was ist die Hauptstadt von Kenia?,Geographie,Nairobi,Mombasa,Kisumu,Nakuru,0
-302,Welches Tier ist bekannt für seine Fähigkeit, hohe Sprünge zu machen?,Biologie,Känguru,Frosch,Grashüpfer,Hase,0
-303,Wie viele Tage hat ein Schaltjahr?,Wissenschaft,364,365,366,367,2
-304,Wer schrieb "Der Fänger im Roggen"?,Literatur,J.D. Salinger,Ernest Hemingway,F. Scott Fitzgerald,John Steinbeck,0
-305,Welches Element hat das chemische Symbol 'Pt'?,Chemie,Platin,Phosphor,Polonium,Palladium,0
-306,In welchem Jahr wurde die erste Atombombe abgeworfen?,Geschichte,1943,1945,1947,1949,1
-307,Wer gilt als Begründer der modernen Genetik?,Wissenschaft,Gregor Mendel,Charles Darwin,Francis Crick,James Watson,0
-308,Welches Land ist bekannt für seine Wikinger-Geschichte?,Geographie,Norwegen,Schweden,Dänemark,Finnland,0
-309,Wie viele Flossen hat ein Fisch normalerweise?,Biologie,2,4,5,6,2
-310,Wer komponierte die Oper "La Traviata"?,Musik,Giuseppe Verdi,Richard Wagner,Johann Strauss,Franz Schubert,0
-311,Was ist die Hauptstadt von Irak?,Geographie,Bagdad,Basra,Erbil,Mossul,0
-312,Welches Tier ist bekannt für seine Fähigkeit, in Rudeln zu jagen?,Biologie,Löwe,Hyäne,Wolf,Fuchs,2
-313,Wie viele Bundesstaaten hat die USA?,Politik,48,49,50,51,2
-314,Wer schrieb "Hundert Jahre Einsamkeit"?,Literatur,Gabriel García Márquez,Julio Cortázar,Mario Vargas Llosa,Jorge Luis Borges,0
-315,Welches Element hat das chemische Symbol 'Au'?,Chemie,Gold,Silber,Aluminium,Argon,0
-316,In welchem Jahr wurde die Berliner Mauer errichtet?,Geschichte,1959,1961,1963,1965,1
-317,Wer gilt als Erfinder des Internets?,Technologie,Tim Berners-Lee,Vint Cerf,Robert Kahn,Leonard Kleinrock,0
-318,Welches Land ist bekannt für seine Schokolade?,Geographie,Belgien,Schweiz,Frankreich,Deutschland,0
-319,Wie viele Flügel hat ein Schmetterling?,Biologie,2,4,6,8,1
-320,Wer komponierte die Oper "Aida"?,Musik,Giuseppe Verdi,Richard Wagner,Johann Strauss,Franz Schubert,0
-321,Was ist die Hauptstadt von Schweden?,Geographie,Stockholm,Göteborg,Malmö,Uppsala,0
-322,Welches Tier ist bekannt für seine Fähigkeit, im Wasser zu leben?,Biologie,Delphin,Wal,Seehund,Krokodil,0
-323,Wie viele Farben hat die Flagge von Frankreich?,Politik,2,3,4,5,1
-324,Wer schrieb "Der kleine Prinz"?,Literatur,Antoine de Saint-Exupéry,Marcel Proust,Jean-Paul Sartre,Albert Camus,0
-325,Welches Element hat das chemische Symbol 'Pb'?,Chemie,Blei,Bismut,Platin,Phosphor,0
-326,In welchem Jahr fand der Erste Weltkrieg statt?,Geschichte,1912,1914,1916,1918,1
-327,Wer gilt als Erfinder der Relativitätstheorie?,Wissenschaft,Isaac Newton,Niels Bohr,Albert Einstein,Galileo Galilei,2
-328,Welches Land ist bekannt für die Akropolis?,Geographie,Italien,Griechenland,Ägypten,Spanien,1
-329,Wie viele Planeten gibt es in unserem Sonnensystem?,Astronomie,7,8,9,10,1
-330,Wer komponierte die Oper "Don Giovanni"?,Musik,Wolfgang Amadeus Mozart,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-331,Was ist die Hauptstadt von Finnland?,Geographie,Helsinki,Tampere,Turku,Oulu,0
-332,Welches Tier ist bekannt für seine Fähigkeit, im Wasser zu leben?,Biologie,Delphin,Wal,Seehund,Krokodil,0
-333,Wie viele Farben hat die Flagge von Italien?,Politik,2,3,4,5,1
-334,Wer schrieb "Krieg und Frieden"?,Literatur,Leo Tolstoi,Fjodor Dostojewski,Anton Tschechow,Iwan Turgenew,0
-335,Welches Element hat das chemische Symbol 'Hg'?,Chemie,Helium,Hydrogen,Quecksilber,Gold,2
-336,In welchem Jahr wurde die Berliner Mauer errichtet?,Geschichte,1959,1961,1963,1965,1
-337,Wer gilt als Erfinder der Dampfmaschine?,Technologie,James Watt,Thomas Newcomen,George Stephenson,Richard Trevithick,0
-338,Welches Land ist bekannt für die Pyramiden von Gizeh?,Geographie,Ägypten,Mexiko,Peru,Indien,0
-339,Wie viele Flügel hat ein Flugzeug?,Technologie,2,4,6,8,0
-340,Wer komponierte die Oper "Carmen"?,Musik,Georges Bizet,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-341,Was ist die Hauptstadt von Norwegen?,Geographie,Oslo,Bergen,Trondheim,Stavanger,0
-342,Welches Tier ist bekannt für seine Fähigkeit, zu springen?,Biologie,Känguru,Frosch,Hase,Grashüpfer,0
-343,Wie viele Nullen hat eine Billion?,Mathematik,9,10,11,12,2
-344,Wer schrieb "Das Kapital"?,Literatur,Karl Marx,Friedrich Engels,Max Weber,Adam Smith,0
-345,Welches Element hat das chemische Symbol 'K'?,Chemie,Kohlenstoff,Kalium,Kupfer,Kalzium,1
-346,In welchem Jahr wurde die Mauer in Berlin abgerissen?,Geschichte,1987,1989,1991,1993,1
-347,Wer gilt als Erfinder der Relativitätstheorie?,Wissenschaft,Isaac Newton,Niels Bohr,Albert Einstein,Galileo Galilei,2
-348,Welches Land ist bekannt für die Akropolis?,Geographie,Italien,Griechenland,Ägypten,Spanien,1
-349,Wie viele Planeten gibt es in unserem Sonnensystem?,Astronomie,7,8,9,10,1
-350,Wer komponierte die Oper "Don Giovanni"?,Musik,Wolfgang Amadeus Mozart,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-360,Was ist die Hauptstadt von Finnland?,Geographie,Helsinki,Tampere,Turku,Oulu,0
-361,Welches Tier ist bekannt für seine Fähigkeit, im Wasser zu leben?,Biologie,Delphin,Wal,Seehund,Krokodil,0
-362,Wie viele Farben hat die Flagge von Italien?,Politik,2,3,4,5,1
-363,Wer schrieb "Krieg und Frieden"?,Literatur,Leo Tolstoi,Fjodor Dostojewski,Anton Tschechow,Iwan Turgenew,0
-364,Welches Element hat das chemische Symbol 'Hg'?,Chemie,Helium,Hydrogen,Quecksilber,Gold,2
-365,In welchem Jahr wurde die Berliner Mauer errichtet?,Geschichte,1959,1961,1963,1965,1
-366,Wer gilt als Erfinder der Dampfmaschine?,Technologie,James Watt,Thomas Newcomen,George Stephenson,Richard Trevithick,0
-367,Welches Land ist bekannt für die Pyramiden von Gizeh?,Geographie,Ägypten,Mexiko,Peru,Indien,0
-368,Wie viele Flügel hat ein Flugzeug?,Technologie,2,4,6,8,0
-369,Wer komponierte die Oper "Carmen"?,Musik,Georges Bizet,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-370,Was ist die Hauptstadt von Norwegen?,Geographie,Oslo,Bergen,Trondheim,Stavanger,0
-371,Welches Tier ist bekannt für seine Fähigkeit, zu springen?,Biologie,Känguru,Frosch,Hase,Grashüpfer,0
-372,Wie viele Nullen hat eine Billion?,Mathematik,9,10,11,12,2
-373,Wer schrieb "Das Kapital"?,Literatur,Karl Marx,Friedrich Engels,Max Weber,Adam Smith,0
-374,Welches Element hat das chemische Symbol 'K'?,Chemie,Kohlenstoff,Kalium,Kupfer,Kalzium,1
-375,In welchem Jahr wurde die Mauer in Berlin abgerissen?,Geschichte,1987,1989,1991,1993,1
-376,Wer gilt als Erfinder der Relativitätstheorie?,Wissenschaft,Isaac Newton,Niels Bohr,Albert Einstein,Galileo Galilei,2
-377,Welches Land ist bekannt für die Akropolis?,Geographie,Italien,Griechenland,Ägypten,Spanien,1
-378,Wie viele Planeten gibt es in unserem Sonnensystem?,Astronomie,7,8,9,10,1
-379,Wer komponierte die Oper "Don Giovanni"?,Musik,Wolfgang Amadeus Mozart,Giuseppe Verdi,Richard Wagner,Johann Strauss,0
-380,Was ist die Hauptstadt von Finnland?,Geographie,Helsinki,Tampere,Turku,Oulu,0
-381,Was ist die Hauptstadt von Indonesien?,Geographie,Jakarta,Bali,Surabaya,Bandung,0
-382,Welches chemische Element ist flüssig bei Raumtemperatur?,Chemie,Quecksilber,Natrium,Kalium,Eisen,0
-383,Wie heißt das größte Riff der Welt?,Natur,Großes Barriereriff,Rotes Riff,Belize Barrier Reef,Andros Barrier Reef,0
-384,In welchem Jahr wurde das erste iPhone vorgestellt?,Technologie,2005,2006,2007,2008,2
-385,Wer war der erste römische Kaiser?,Geschichte,Augustus,Julius Caesar,Nero,Tiberius,0
-386,Welches Instrument hat 47 Saiten und 7 Pedale?,Musik,Harfe,Klavier,Gitarre,Cello,0
-387,Was ist der höchste Berg Afrikas?,Geographie,Kilimandscharo,Mount Kenya,Mount Stanley,Ras Dashen,0
-388,Welches Vitamin wird auch Retinol genannt?,Medizin,Vitamin A,Vitamin B,Vitamin C,Vitamin D,0
-389,Wer entwickelte die Evolutionstheorie?,Wissenschaft,Charles Darwin,Gregor Mendel,Louis Pasteur,Alexander Fleming,0
-390,Welche Währung hat Japan?,Wirtschaft,Yen,Won,Yuan,Ringgit,0
-391,Was ist das schnellste Landtier der Welt?,Biologie,Gepard,Antilope,Löwe,Leopard,0
-392,Welcher Ozean ist der größte?,Geographie,Pazifischer Ozean,Atlantischer Ozean,Indischer Ozean,Südlicher Ozean,0
-393,Wer schrieb "Die Metamorphose"?,Literatur,Franz Kafka,Thomas Mann,Hermann Hesse,Robert Musil,0
-394,Was ist die kleinste Primzahl?,Mathematik,0,1,2,3,2
-395,Welches Gas macht den größten Teil der Erdatmosphäre aus?,Wissenschaft,Sauerstoff,Stickstoff,Kohlendioxid,Argon,1
-396,In welchem Jahr wurde die NATO gegründet?,Geschichte,1947,1949,1951,1953,1
-397,Welches Element hat das chemische Symbol 'P'?,Chemie,Platin,Palladium,Phosphor,Polonium,2
-398,Was ist die Hauptstadt von Südafrika?,Geographie,Pretoria,Kapstadt,Johannesburg,Durban,0
-399,Wer malte "Die Sternennacht"?,Kunst,Vincent van Gogh,Claude Monet,Pablo Picasso,Salvador Dalí,0
-400,Wie viele Spieler hat eine Volleyball-Mannschaft?,Sport,4,5,6,7,2
-401,Was ist das härteste Material der Natur?,Wissenschaft,Diamant,Graphit,Stahl,Titan,0
-402,Welcher Planet wird auch "Roter Planet" genannt?,Astronomie,Venus,Mars,Jupiter,Saturn,1
-403,Wer komponierte die "Mondscheinsonate"?,Musik,Beethoven,Mozart,Bach,Schubert,0
-404,Was ist die Hauptstadt von Malaysia?,Geographie,Kuala Lumpur,Penang,Johor Bahru,Malakka,0
-405,Welches Tier schläft im Stehen?,Biologie,Pferd,Elefant,Giraffe,Zebra,0
-406,Wie viele Oscars gewann der Film "Titanic"?,Entertainment,9,11,13,14,2
-407,Wer erfand den Buchdruck?,Geschichte,Johannes Gutenberg,Leonardo da Vinci,Galileo Galilei,Marco Polo,0
-408,Welches chemische Element hat die Ordnungszahl 6?,Chemie,Bor,Kohlenstoff,Stickstoff,Sauerstoff,1
-409,Was ist die Hauptstadt von Chile?,Geographie,Santiago,Valparaíso,Concepción,Antofagasta,0
-410,Welches Organ reinigt das Blut?,Biologie,Leber,Niere,Milz,Bauchspeicheldrüse,1
-411,Wer schrieb "Die Schatzinsel"?,Literatur,Robert Louis Stevenson,Daniel Defoe,Jonathan Swift,Jules Verne,0
-412,Was ist die Hauptstadt von Marokko?,Geographie,Rabat,Casablanca,Marrakesch,Fès,0
-413,Welches Tier ist das größte Landsäugetier?,Biologie,Afrikanischer Elefant,Nashorn,Giraffe,Nilpferd,0
-414,Wie viele Sinne hat der Mensch?,Biologie,3,4,5,6,2
-415,Wer malte die "Geburt der Venus"?,Kunst,Sandro Botticelli,Leonardo da Vinci,Michelangelo,Raffael,0
-416,Was ist die Hauptstadt von Irland?,Geographie,Dublin,Cork,Galway,Limerick,0
-417,Welches Element hat das chemische Symbol 'Sn'?,Chemie,Silizium,Scandium,Strontium,Zinn,3
-418,Wer war der erste Präsident der USA?,Geschichte,George Washington,Thomas Jefferson,John Adams,Benjamin Franklin,0
-419,Welcher ist der längste Fluss Europas?,Geographie,Wolga,Donau,Rhein,Loire,0
-420,Was ist die Hauptstadt von Ungarn?,Geographie,Budapest,Prag,Warschau,Bratislava,0
-421,Welches Tier ist das schnellste im Wasser?,Biologie,Schwertfisch,Thunfisch,Segelfisch,Delfin,2
-422,Wer schrieb "Don Quijote"?,Literatur,Miguel de Cervantes,Federico García Lorca,Pablo Neruda,Gabriel García Márquez,0
-423,Wie viele Chromosomen hat ein gesunder Mensch?,Biologie,44,46,48,50,1
-424,Was ist die Hauptstadt von Kroatien?,Geographie,Zagreb,Split,Rijeka,Dubrovnik,0
-425,Welches chemische Element hat die Ordnungszahl 79?,Chemie,Silber,Platin,Gold,Kupfer,2
-426,Wer erfand das Telefon?,Technologie,Alexander Graham Bell,Thomas Edison,Nikola Tesla,George Westinghouse,0
-427,Was ist die Hauptstadt von Neuseeland?,Geographie,Wellington,Auckland,Christchurch,Hamilton,0
-428,Welches Tier kann seinen Kopf um 360 Grad drehen?,Biologie,Eule,Falke,Adler,Papagei,0
-429,Wer komponierte "Die vier Jahreszeiten"?,Musik,Antonio Vivaldi,Johann Sebastian Bach,Wolfgang Amadeus Mozart,Ludwig van Beethoven,0
-430,Was ist die Hauptstadt von Island?,Geographie,Reykjavík,Kópavogur,Hafnarfjörður,Akureyri,0
-431,Welches Element hat das chemische Symbol 'W'?,Chemie,Wolfram,Wismut,Wasserstoff,Xenon,0
-432,Wer erfand die Dampflokomotive?,Technologie,George Stephenson,James Watt,Thomas Newcomen,Richard Trevithick,0
-433,Was ist die Hauptstadt von Ecuador?,Geographie,Quito,Guayaquil,Cuenca,Manta,0
-434,Welches Tier ist das größte Raubtier der Welt?,Biologie,Eisbär,Sibirischer Tiger,Grizzlybär,Löwe,0
-435,Wer malte "Der Schrei"?,Kunst,Edvard Munch,Gustav Klimt,Paul Gauguin,Henri Matisse,0
-436,Was ist die Hauptstadt von Pakistan?,Geographie,Islamabad,Karachi,Lahore,Rawalpindi,0
-437,Welches Element hat das chemische Symbol 'U'?,Chemie,Uran,Ununnilium,Ununbium,Ununquadium,0
-438,Wer war der erste Mensch im Weltall?,Geschichte,Yuri Gagarin,Alan Shepard,John Glenn,Neil Armstrong,0
-439,Was ist die Hauptstadt von Bulgarien?,Geographie,Sofia,Plovdiv,Varna,Burgas,0
-440,Welches Tier hat den längsten Hals?,Biologie,Giraffe,Flamingo,Schwan,Strauß,0
-441,Wer schrieb "Die Pest"?,Literatur,Albert Camus,Jean-Paul Sartre,Simone de Beauvoir,André Malraux,0
-442,Was ist die Hauptstadt von Albanien?,Geographie,Tirana,Durrës,Vlorë,Elbasan,0
-443,Welches chemische Element ist das leichteste?,Chemie,Wasserstoff,Helium,Lithium,Beryllium,0
-444,Wer erfand die Röntgenstrahlen?,Wissenschaft,Wilhelm Röntgen,Marie Curie,Henri Becquerel,Max Planck,0
-445,Was ist die Hauptstadt von Ghana?,Geographie,Accra,Kumasi,Tamale,Sekondi-Takoradi,0
-446,Welches Tier kann am längsten ohne Wasser auskommen?,Biologie,Kamel,Giraffe,Känguru,Esel,0
-447,Wer komponierte "Eine kleine Nachtmusik"?,Musik,Wolfgang Amadeus Mozart,Ludwig van Beethoven,Joseph Haydn,Franz Schubert,0
-448,Was ist die Hauptstadt von Lettland?,Geographie,Riga,Vilnius,Tallinn,Kaunas,0
-449,Welches Element hat das chemische Symbol 'Ba'?,Chemie,Barium,Beryllium,Bor,Bismut,0
-450,Wer erfand die Glühbirne?,Technologie,Thomas Edison,Nikola Tesla,Alexander Graham Bell,George Westinghouse,0
-451,Was ist die Hauptstadt von Uruguay?,Geographie,Montevideo,Punta del Este,Salto,Maldonado,0
-452,Welches Tier ist das kleinste Säugetier der Welt?,Biologie,Etruskerspitzmaus,Zwergfledermaus,Zwergmaus,Zwerghamster,0
-453,Wer malte "Guernica"?,Kunst,Pablo Picasso,Salvador Dalí,Joan Miró,Diego Rivera,0
-454,Was ist die Hauptstadt von Kuba?,Geographie,Havanna,Santiago de Cuba,Camagüey,Holguín,0
-455,Welches Element hat das chemische Symbol 'Br'?,Chemie,Brom,Barium,Beryllium,Bismut,0
-456,Wer war der erste Kaiser von China?,Geschichte,Qin Shi Huang,Han Wudi,Tang Taizong,Kublai Khan,0
-457,Was ist die Hauptstadt von Angola?,Geographie,Luanda,Huambo,Lobito,Benguela,0
-458,Welches Tier hat das größte Gehirn?,Biologie,Pottwal,Elefant,Delfin,Gorilla,0
-459,Wer schrieb "Der Name der Rose"?,Literatur,Umberto Eco,Italo Calvino,Alberto Moravia,Luigi Pirandello,0
-460,Was ist die Hauptstadt von Kambodscha?,Geographie,Phnom Penh,Siem Reap,Battambang,Sihanoukville,0
+51,Was ist die Hauptstadt von Spanien?,Geographie,Madrid,Barcelona,Valencia,Sevilla,0
+52,Welches chemische Element ist bei Raumtemperatur flüssig?,Chemie,Quecksilber,Natrium,Kalium,Eisen,0
+53,Wie heißt das größte Riff der Welt?,Natur,Großes Barriereriff,Rotes Riff,Belize Barrier Reef,Andros Barrier Reef,0
+54,In welchem Jahr wurde das erste iPhone vorgestellt?,Technologie,2005,2006,2007,2008,2
+55,Wer war der erste römische Kaiser?,Geschichte,Augustus,Julius Caesar,Nero,Tiberius,0
+56,Welches Instrument hat 47 Saiten und 7 Pedale?,Musik,Harfe,Klavier,Gitarre,Cello,0
+57,Was ist der höchste Berg Afrikas?,Geographie,Kilimandscharo,Mount Kenya,Mount Stanley,Ras Dashen,0
+58,Welches Vitamin wird auch Retinol genannt?,Medizin,Vitamin A,Vitamin B,Vitamin C,Vitamin D,0
+59,Wer entwickelte die Evolutionstheorie?,Wissenschaft,Charles Darwin,Gregor Mendel,Louis Pasteur,Alexander Fleming,0
+60,Welche Währung hat Japan?,Wirtschaft,Yen,Won,Yuan,Ringgit,0
+61,Was ist das schnellste Landtier der Welt?,Biologie,Gepard,Antilope,Löwe,Leopard,0
+62,Welcher Ozean ist der größte?,Geographie,Pazifischer Ozean,Atlantischer Ozean,Indischer Ozean,Südlicher Ozean,0
+63,Wer schrieb "Die Metamorphose"?,Literatur,Franz Kafka,Thomas Mann,Hermann Hesse,Robert Musil,0
+64,Welches Gas macht den größten Teil der Erdatmosphäre aus?,Wissenschaft,Sauerstoff,Stickstoff,Kohlendioxid,Argon,1
+65,In welchem Jahr wurde die NATO gegründet?,Geschichte,1947,1949,1951,1953,1
+66,Welches Element hat das chemische Symbol 'P'?,Chemie,Platin,Palladium,Phosphor,Polonium,2
+67,Was ist die Hauptstadt von Südafrika?,Geographie,Pretoria,Kapstadt,Johannesburg,Durban,0
+68,Wer malte "Die Sternennacht"?,Kunst,Vincent van Gogh,Claude Monet,Pablo Picasso,Salvador Dalí,0
+69,Wie viele Spieler hat eine Volleyball-Mannschaft?,Sport,4,5,6,7,2
+70,Was ist das härteste Material der Natur?,Wissenschaft,Diamant,Graphit,Stahl,Titan,0
+71,Welcher Planet wird auch "Roter Planet" genannt?,Astronomie,Venus,Mars,Jupiter,Saturn,1
+72,Wer komponierte die "Mondscheinsonate"?,Musik,Beethoven,Mozart,Bach,Schubert,0
+73,Was ist die Hauptstadt von Malaysia?,Geographie,Kuala Lumpur,Penang,Johor Bahru,Malakka,0
+74,Welches Tier schläft im Stehen?,Biologie,Pferd,Elefant,Giraffe,Zebra,0
+75,Wer erfand den Buchdruck?,Geschichte,Johannes Gutenberg,Leonardo da Vinci,Galileo Galilei,Marco Polo,0
+76,Welches chemische Element hat die Ordnungszahl 6?,Chemie,Bor,Kohlenstoff,Stickstoff,Sauerstoff,1
+77,Was ist die Hauptstadt von Chile?,Geographie,Santiago,Valparaíso,Concepción,Antofagasta,0
+78,Welches Organ reinigt das Blut?,Biologie,Leber,Niere,Milz,Bauchspeicheldrüse,1
+79,Wer schrieb "Die Schatzinsel"?,Literatur,Robert Louis Stevenson,Daniel Defoe,Jonathan Swift,Jules Verne,0
+80,Was ist die Hauptstadt von Marokko?,Geographie,Rabat,Casablanca,Marrakesch,Fès,0
+81,Welches Tier ist das größte Landsäugetier?,Biologie,Afrikanischer Elefant,Nashorn,Giraffe,Nilpferd,0
+82,Wie viele Sinne hat der Mensch?,Biologie,3,4,5,6,2
+83,Wer malte die "Geburt der Venus"?,Kunst,Sandro Botticelli,Leonardo da Vinci,Michelangelo,Raffael,0
+84,Was ist die Hauptstadt von Irland?,Geographie,Dublin,Cork,Galway,Limerick,0
+85,Welches Element hat das chemische Symbol 'Sn'?,Chemie,Silizium,Scandium,Strontium,Zinn,3
+86,Wer war der erste Präsident der USA?,Geschichte,George Washington,Thomas Jefferson,John Adams,Benjamin Franklin,0
+87,Welcher ist der längste Fluss Europas?,Geographie,Wolga,Donau,Rhein,Loire,0
+88,Was ist die Hauptstadt von Ungarn?,Geographie,Budapest,Prag,Warschau,Bratislava,0
+89,Welches Tier ist das schnellste im Wasser?,Biologie,Schwertfisch,Thunfisch,Segelfisch,Delfin,2
+90,Wer schrieb "Don Quijote"?,Literatur,Miguel de Cervantes,Federico García Lorca,Pablo Neruda,Gabriel García Márquez,0
+91,Wie viele Chromosomen hat ein gesunder Mensch?,Biologie,44,46,48,50,1
+92,Was ist die Hauptstadt von Kroatien?,Geographie,Zagreb,Split,Rijeka,Dubrovnik,0
+93,Welches chemische Element hat die Ordnungszahl 79?,Chemie,Silber,Platin,Gold,Kupfer,2
+94,Wer erfand das Telefon?,Technologie,Alexander Graham Bell,Thomas Edison,Nikola Tesla,George Westinghouse,0
+95,Was ist die Hauptstadt von Neuseeland?,Geographie,Wellington,Auckland,Christchurch,Hamilton,0
+96,Welches Tier kann seinen Kopf um 360 Grad drehen?,Biologie,Eule,Falke,Adler,Papagei,0
+97,Wer komponierte "Die vier Jahreszeiten"?,Musik,Antonio Vivaldi,Johann Sebastian Bach,Wolfgang Amadeus Mozart,Ludwig van Beethoven,0
+98,Was ist die Hauptstadt von Island?,Geographie,Reykjavík,Kópavogur,Hafnarfjörður,Akureyri,0
+99,Welches Element hat das chemische Symbol 'W'?,Chemie,Wolfram,Wismut,Wasserstoff,Xenon,0
+100,Wer erfand die Dampflokomotive?,Technologie,George Stephenson,James Watt,Thomas Newcomen,Richard Trevithick,0
+101,Was ist die Hauptstadt von Ecuador?,Geographie,Quito,Guayaquil,Cuenca,Manta,0
+102,Welches Tier ist das größte Raubtier der Welt?,Biologie,Eisbär,Sibirischer Tiger,Grizzlybär,Löwe,0
+103,Wer malte "Der Schrei"?,Kunst,Edvard Munch,Gustav Klimt,Paul Gauguin,Henri Matisse,0
+104,Was ist die Hauptstadt von Pakistan?,Geographie,Islamabad,Karachi,Lahore,Rawalpindi,0
+105,Welches Element hat das chemische Symbol 'U'?,Chemie,Uran,Ununnilium,Ununbium,Ununquadium,0
+106,Wer war der erste Mensch im Weltall?,Geschichte,Yuri Gagarin,Alan Shepard,John Glenn,Neil Armstrong,0
+107,Was ist die Hauptstadt von Bulgarien?,Geographie,Sofia,Plovdiv,Varna,Burgas,0
+108,Welches Tier hat den längsten Hals?,Biologie,Giraffe,Flamingo,Schwan,Strauß,0
+109,Wer schrieb "Die Pest"?,Literatur,Albert Camus,Jean-Paul Sartre,Simone de Beauvoir,André Malraux,0
+110,Was ist die Hauptstadt von Albanien?,Geographie,Tirana,Durrës,Vlorë,Elbasan,0
+111,Welches chemische Element ist das leichteste?,Chemie,Wasserstoff,Helium,Lithium,Beryllium,0
+112,Wer erfand die Röntgenstrahlen?,Wissenschaft,Wilhelm Röntgen,Marie Curie,Henri Becquerel,Max Planck,0
+113,Was ist die Hauptstadt von Ghana?,Geographie,Accra,Kumasi,Tamale,Sekondi-Takoradi,0
+114,Welches Tier kann am längsten ohne Wasser auskommen?,Biologie,Kamel,Giraffe,Känguru,Esel,0
+115,Wer komponierte "Eine kleine Nachtmusik"?,Musik,Wolfgang Amadeus Mozart,Ludwig van Beethoven,Joseph Haydn,Franz Schubert,0
+116,Was ist die Hauptstadt von Lettland?,Geographie,Riga,Vilnius,Tallinn,Kaunas,0
+117,Welches Element hat das chemische Symbol 'Ba'?,Chemie,Barium,Beryllium,Bor,Bismut,0
+118,Wer erfand die Glühbirne?,Technologie,Thomas Edison,Nikola Tesla,Alexander Graham Bell,George Westinghouse,0
+119,Was ist die Hauptstadt von Uruguay?,Geographie,Montevideo,Punta del Este,Salto,Maldonado,0
+120,Welches Tier ist das kleinste Säugetier der Welt?,Biologie,Etruskerspitzmaus,Zwergfledermaus,Zwergmaus,Zwerghamster,0
+121,Wer malte "Guernica"?,Kunst,Pablo Picasso,Salvador Dalí,Joan Miró,Diego Rivera,0
+122,Was ist die Hauptstadt von Kuba?,Geographie,Havanna,Santiago de Cuba,Camagüey,Holguín,0
+123,Welches Element hat das chemische Symbol 'Br'?,Chemie,Brom,Barium,Beryllium,Bismut,0
+124,Wer war der erste Kaiser von China?,Geschichte,Qin Shi Huang,Han Wudi,Tang Taizong,Kublai Khan,0
+125,Was ist die Hauptstadt von Angola?,Geographie,Luanda,Huambo,Lobito,Benguela,0
+126,Welches Tier hat das größte Gehirn?,Biologie,Pottwal,Elefant,Delfin,Gorilla,0
+127,Wer schrieb "Der Name der Rose"?,Literatur,Umberto Eco,Italo Calvino,Alberto Moravia,Luigi Pirandello,0
+128,Was ist die Hauptstadt von Kambodscha?,Geographie,Phnom Penh,Siem Reap,Battambang,Sihanoukville,0
+129,Welches Element hat das chemische Symbol 'Xe'?,Chemie,Xenon,Xanthium,Xylit,Xylol,0
+130,Wer entwickelte die Quantentheorie?,Wissenschaft,Max Planck,Albert Einstein,Niels Bohr,Werner Heisenberg,0
+131,Welches ist das meistgesprochene Sprachfamilie der Welt?,Sprache,Indogermanisch,Sinotibetisch,Afroasiatisch,Austronesisch,0
+132,Wie viele Geschmacksrichtungen kann die menschliche Zunge unterscheiden?,Biologie,3,4,5,6,2
+133,Welches Land hat die längste Küstenlinie der Welt?,Geographie,Russland,Kanada,Indonesien,Norwegen,1
+134,In welchem Jahr wurde die erste Weltmeisterschaft im Fußball ausgetragen?,Sport,1926,1928,1930,1932,2
+135,Welches chemische Element wird für Luftballons verwendet?,Chemie,Wasserstoff,Helium,Stickstoff,Sauerstoff,1
+136,Wer erfand das World Wide Web?,Technologie,Tim Berners-Lee,Bill Gates,Steve Jobs,Mark Zuckerberg,0
+137,Welches ist das größte Organ des menschlichen Körpers?,Medizin,Leber,Gehirn,Haut,Lunge,2
+138,Wie viele Monde hat der Planet Mars?,Astronomie,0,1,2,3,2
+139,Wer schrieb "1984"?,Literatur,George Orwell,Aldous Huxley,Ray Bradbury,H.G. Wells,0
+140,Welches ist das kleinste Land der Welt?,Geographie,Monaco,San Marino,Vatikanstadt,Liechtenstein,2
+141,In welchem Jahr wurde die erste Olympiade der Neuzeit ausgetragen?,Sport,1886,1896,1906,1916,1
+142,Welches Element ist hauptverantwortlich für die grüne Farbe der Pflanzen?,Biologie,Chlorophyll,Melanin,Hämoglobin,Keratin,0
+143,Wer entwickelte die Psychoanalyse?,Psychologie,Sigmund Freud,Carl Jung,B.F. Skinner,Ivan Pavlov,0
+144,Welches ist das häufigste Element im Universum?,Wissenschaft,Helium,Wasserstoff,Sauerstoff,Stickstoff,1
+145,In welchem Jahr wurde die erste Mondlandung durchgeführt?,Geschichte,1967,1968,1969,1970,2
+146,Welches Instrument wird auch "Königin der Instrumente" genannt?,Musik,Klavier,Orgel,Violine,Cello,1
+147,Was ist der schnellste Vogel der Welt?,Biologie,Adler,Falke,Wanderfalke,Kolibri,2
+148,Welche ist die größte Wüste der Welt?,Geographie,Sahara,Antarktis,Gobi,Arabian,1
+149,Wer erfand die Relativitätstheorie?,Wissenschaft,Isaac Newton,Albert Einstein,Stephen Hawking,Niels Bohr,1
+150,Welches Land erfand das Papier?,Geschichte,Japan,Indien,China,Ägypten,2
+151,Wie viele Zähne hat ein erwachsener Mensch normalerweise?,Biologie,28,30,32,34,2
+152,Welches chemische Element macht Diamanten aus?,Chemie,Silizium,Kohlenstoff,Graphit,Bor,1
+153,Wer malte "Die Nachtwache"?,Kunst,Rembrandt,Van Gogh,Vermeer,Rubens,0
+154,Was ist die Hauptstadt von Südkorea?,Geographie,Seoul,Busan,Incheon,Daegu,0
+155,Welches ist das längste Wort der deutschen Sprache?,Sprache,Donaudampfschifffahrtsgesellschaftskapitän,Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz,Kraftfahrzeug-Haftpflichtversicherung,Bundesausbildungsförderungsgesetz,1
+156,Wie viele Knochen hat ein neugeborenes Baby?,Medizin,206,270,300,350,2
+157,Wer schrieb "Die Verwandlung"?,Literatur,Franz Kafka,Thomas Mann,Hermann Hesse,Friedrich Schiller,0
+158,Welches ist das giftigste Tier der Welt?,Biologie,Inland-Taipan,Königskobra,Blauer Ringoctopus,Pfeilgiftfrosch,0
+159,In welchem Jahr wurde die erste E-Mail verschickt?,Technologie,1969,1971,1973,1975,1
+160,Welches ist das am häufigsten konsumierte Getränk der Welt?,Ernährung,Kaffee,Tee,Wasser,Cola,2
+161,Wer komponierte "Die Vier Jahreszeiten"?,Musik,Vivaldi,Bach,Mozart,Beethoven,0
+162,Welches ist das am meisten gesprochene Wort der Welt?,Sprache,OK,Mama,Nein,Ja,0
+163,Wie viele Muskeln braucht ein Mensch zum Lächeln?,Biologie,5,10,17,23,2
+164,Welches Land hat die meisten Inseln der Welt?,Geographie,Indonesien,Philippinen,Schweden,Norwegen,2
+165,Wer erfand das Periodensystem?,Chemie,Dmitri Mendelejew,Antoine Lavoisier,Marie Curie,Robert Boyle,0
+166,Welches ist das meist verkaufte Buch nach der Bibel?,Literatur,Don Quijote,Der kleine Prinz,Harry Potter,Herr der Ringe,0
+167,In welchem Jahr wurde das erste Video auf YouTube hochgeladen?,Technologie,2003,2004,2005,2006,2
+168,Welches Tier schläft nie?,Biologie,Delfin,Giraffe,Hai,Ameise,0
+169,Wer erfand die Dampfmaschine?,Technologie,James Watt,Thomas Edison,Alexander Graham Bell,Nicolas Tesla,0
+170,Welches ist das kleinste Säugetier der Welt?,Biologie,Etruskerspitzmaus,Zwergmaus,Zwergfledermaus,Zwerghamster,0
+171,In welchem Jahr wurde die UNO gegründet?,Geschichte,1943,1945,1947,1949,1
+172,Welches Element macht den größten Teil der Erdkruste aus?,Wissenschaft,Eisen,Silizium,Aluminium,Sauerstoff,3
+173,Wer schrieb "Der Kleine Prinz"?,Literatur,Antoine de Saint-Exupéry,Jules Verne,Victor Hugo,Albert Camus,0
+174,Wie viele Tasten hat ein klassisches Schachbrett?,Spiele,49,64,81,100,1
+175,Welches ist das schnellste Wassertier?,Biologie,Schwertfisch,Thunfisch,Segelfisch,Delfin,2
+176,Wer erfand das Telefon?,Technologie,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Guglielmo Marconi,0
+177,Welches ist das häufigste chemische Element in der Erdkruste?,Chemie,Silizium,Aluminium,Eisen,Sauerstoff,3
+178,In welchem Jahr wurde der Euro eingeführt?,Geschichte,1999,2000,2001,2002,3
+179,Welches ist der tiefste Punkt der Erde?,Geographie,Marianengraben,Totes Meer,Kaspisches Meer,Baikalsee,0
+180,Wer entwickelte die Evolutionstheorie?,Wissenschaft,Charles Darwin,Gregor Mendel,Louis Pasteur,Alexander Fleming,0
+181,Wie viele Rippen hat ein Mensch normalerweise?,Medizin,20,22,24,26,2
+182,Welches ist der längste Fluss Asiens?,Geographie,Jangtse,Mekong,Ganges,Amur,0
+183,Wer malte "Die Erschaffung Adams"?,Kunst,Michelangelo,Leonardo da Vinci,Raffael,Botticelli,0
+184,Welches ist das meistverkaufte Videospiel aller Zeiten?,Gaming,Tetris,Minecraft,Super Mario Bros.,GTA V,1
+185,In welchem Jahr wurde das erste Mobiltelefon verkauft?,Technologie,1973,1983,1993,2003,1
+186,Welches Tier hat die größten Augen?,Biologie,Blauer Wal,Riesenkalmar,Elefant,Giraffe,1
+187,Wer erfand die Glühbirne?,Technologie,Thomas Edison,Nikola Tesla,Alexander Graham Bell,James Watt,0
+188,Welches ist der höchste Wasserfall der Welt?,Geographie,Angel Falls,Niagara Falls,Victoria Falls,Iguazu Falls,0
+189,In welchem Jahr wurde die erste Pockenimpfung durchgeführt?,Medizin,1696,1796,1896,1996,1
+190,Welches ist das härteste Metall der Welt?,Wissenschaft,Titan,Wolfram,Chrom,Iridium,1
+191,Wer schrieb "Die göttliche Komödie"?,Literatur,Dante Alighieri,Giovanni Boccaccio,Francesco Petrarca,Niccolò Machiavelli,0
+192,Wie viele Geschmacksknospen hat die menschliche Zunge durchschnittlich?,Biologie,1000,5000,10000,15000,2
+193,Welches Land erfand das Schachspiel?,Geschichte,China,Indien,Persien,Ägypten,1
+194,Wer komponierte "Die Zauberflöte"?,Musik,Mozart,Bach,Beethoven,Händel,0
+195,Welches ist der kleinste Knochen im menschlichen Körper?,Medizin,Steigbügel,Hammer,Amboss,Nagelphalanx,0
+196,In welchem Jahr wurde Wikipedia gegründet?,Technologie,1999,2001,2003,2005,1
+197,Welches Tier hat das beste Gedächtnis?,Biologie,Elefant,Delfin,Schimpanse,Rabe,0
+198,Wer erfand den Computeralgorithmus?,Wissenschaft,Ada Lovelace,Alan Turing,Charles Babbage,John von Neumann,0
+199,Welches ist das am meisten angebaute Getreide der Welt?,Landwirtschaft,Weizen,Reis,Mais,Gerste,2
+200,Wie viele Ozeane gibt es auf der Erde?,Geographie,3,4,5,6,2
+201,Wer entwickelte die Theorie der Psychoanalyse?,Psychologie,Sigmund Freud,Carl Jung,William James,Ivan Pavlov,0
+202,Welches ist das längste Wort ohne Vokal im Deutschen?,Sprache,Rhythmus,Pfropf,Strumpf,Schrift,0
+203,In welchem Jahr wurde der erste Computer gebaut?,Technologie,1936,1946,1956,1966,1
+204,Welches Tier hat das größte Herz?,Biologie,Blauer Wal,Elefant,Giraffe,Gorilla,0
+205,Wer erfand die erste Programmiersprache?,Technologie,Ada Lovelace,Grace Hopper,Alan Turing,John von Neumann,1
+206,Welches ist der salzigste See der Welt?,Geographie,Totes Meer,Großer Salzsee,Don Juan Pond,Kaspisches Meer,2
+207,In welchem Jahr wurde das erste Foto gemacht?,Geschichte,1826,1836,1846,1856,0
+208,Welches Element ist für die rote Farbe des Blutes verantwortlich?,Chemie,Eisen,Kupfer,Magnesium,Kalzium,0
+209,Wer erfand die erste Rechenmaschine?,Wissenschaft,Blaise Pascal,Gottfried Leibniz,Charles Babbage,Alan Turing,0
+210,Wie viele Muskeln hat der menschliche Körper?,Medizin,206,456,639,850,2
+211,Welches ist der größte Binnenstaat der Welt?,Geographie,Kasachstan,Mongolei,Äthiopien,Bolivien,0
+212,Wie viele Kalorien hat ein Apfel durchschnittlich?,Ernährung,52,72,92,112,0
+213,Wer erfand das Penicillin?,Wissenschaft,Alexander Fleming,Louis Pasteur,Robert Koch,Joseph Lister,0
+214,Welches ist das meistverkaufte Musikalbum aller Zeiten?,Musik,Thriller,Back in Black,The Dark Side of the Moon,Eagles Greatest Hits,0
+215,In welchem Jahr wurde der erste Herzschrittmacher implantiert?,Medizin,1948,1958,1968,1978,1
+216,Welches chemische Element hat die höchste Dichte?,Chemie,Gold,Platin,Iridium,Osmium,3
+217,Wer schrieb "Die Buddenbrooks"?,Literatur,Thomas Mann,Heinrich Mann,Hermann Hesse,Günter Grass,0
+218,Wie viele Knochen hat ein Hai?,Biologie,0,206,300,400,0
+219,Welches Land hat die meisten aktiven Vulkane?,Geographie,Indonesien,Japan,USA,Chile,0
+220,Wer erfand den ersten funktionierenden Hubschrauber?,Technologie,Igor Sikorsky,Leonardo da Vinci,Heinrich Focke,Paul Cornu,0
+221,Welches ist das meist gesprochene Wort in deutschen Telefonaten?,Sprache,Hallo,Ja,Nein,Tschüss,1
+222,In welchem Jahr wurde der erste Nobelpreis verliehen?,Geschichte,1891,1901,1911,1921,1
+223,Wie viele Muskeln braucht eine Katze zum Schnurren?,Biologie,2,4,6,8,1
+224,Welches ist der älteste Baum der Welt?,Natur,Methuselah,Old Tjikko,General Sherman,Hyperion,0
+225,Wer entwickelte das erste Auto mit Verbrennungsmotor?,Technologie,Karl Benz,Gottlieb Daimler,Henry Ford,Rudolf Diesel,0
+226,Welches Element macht Rubine rot?,Chemie,Chrom,Eisen,Kupfer,Kobalt,0
+227,Wie viele Tasten hat eine Standard-Computertastatur?,Technologie,101,102,104,105,2
+228,Welcher Kontinent hat die meisten Länder?,Geographie,Afrika,Asien,Europa,Nordamerika,0
+229,Wer komponierte "Die Unvollendete"?,Musik,Franz Schubert,Ludwig van Beethoven,Wolfgang Amadeus Mozart,Joseph Haydn,0
+230,Welches Tier hat die längste Lebensdauer?,Biologie,Grönlandwal,Galápagos-Schildkröte,Elefant,Papagei,0
+231,In welchem Jahr wurde die erste SMS verschickt?,Technologie,1990,1992,1994,1996,1
+232,Welches ist das seltenste chemische Element auf der Erde?,Chemie,Francium,Astat,Polonium,Radon,1
+233,Wer schrieb "Der Herr der Ringe"?,Literatur,J.R.R. Tolkien,C.S. Lewis,George R.R. Martin,Terry Pratchett,0
+234,Wie viele Buchstaben hat das hawaiianische Alphabet?,Sprache,12,13,14,15,1
+235,Welches ist der schnellste Fisch der Welt?,Biologie,Schwertfisch,Thunfisch,Segelfisch,Marlin,2
+236,Wer erfand die erste Batterie?,Wissenschaft,Alessandro Volta,Michael Faraday,Georg Ohm,André-Marie Ampère,0
+237,Welches Land hat die meisten Zeitzone?,Geographie,Russland,USA,Frankreich,China,2
+238,In welchem Jahr wurde der erste Satellit ins All geschossen?,Geschichte,1955,1957,1959,1961,1
+239,Wie viele Herzen hat ein Oktopus?,Biologie,1,2,3,4,2
+240,Welches ist der größte Mond im Sonnensystem?,Astronomie,Titan,Ganymed,Europa,Io,1
+241,Wer erfand den Mikrochip?,Technologie,Jack Kilby,Gordon Moore,Robert Noyce,William Shockley,0
+242,Welches Element macht Smaragde grün?,Chemie,Chrom,Eisen,Kupfer,Nickel,0
+243,Wie viele Sprachen werden weltweit gesprochen?,Sprache,etwa 3000,etwa 4000,etwa 5000,etwa 7000,3
+244,Welches ist der tiefste See der Welt?,Geographie,Baikalsee,Tanganjikasee,Kaspisches Meer,Totes Meer,0
+245,Wer komponierte "Die Moldau"?,Musik,Bedřich Smetana,Antonín Dvořák,Leoš Janáček,Franz Liszt,0
+246,Welches Tier hat die meisten Zähne?,Biologie,Hai,Delfin,Krokodil,Schnecke,3
+247,In welchem Jahr wurde das erste Foto vom Mond gemacht?,Geschichte,1840,1850,1860,1870,2
+248,Welches ist das häufigste Protein im menschlichen Körper?,Biologie,Kollagen,Keratin,Elastin,Aktin,0
+249,Wer schrieb "Die Blechtrommel"?,Literatur,Günter Grass,Heinrich Böll,Martin Walser,Siegfried Lenz,0
+250,Wie viele Knochen hat ein Vogel durchschnittlich?,Biologie,120,150,180,210,1
+251,Welches Land erfand den Kompass?,Geschichte,China,Ägypten,Griechenland,Indien,0
+252,Wer entwickelte die erste Programmiersprache mit Compiler?,Technologie,Grace Hopper,Ada Lovelace,Alan Turing,John von Neumann,0
+253,Welches ist der längste Fluss Afrikas?,Geographie,Nil,Kongo,Niger,Sambesi,0
+254,In welchem Jahr wurde die erste Braille-Schrift entwickelt?,Geschichte,1824,1834,1844,1854,0
+255,Wie viele Geschmacksknospen hat eine Katze?,Biologie,473,573,673,773,0
+256,Welches Element macht den Himmel blau?,Wissenschaft,Sauerstoff,Stickstoff,Wasserstoff,Helium,1
+257,Wer erfand den Fernseher?,Technologie,John Logie Baird,Philo Farnsworth,Vladimir Zworykin,Charles Francis Jenkins,0
+258,Welches ist der kleinste Vogel der Welt?,Biologie,Bienenelfe,Zaunkönig,Kolibri,Wintergoldhähnchen,0
+259,In welchem Jahr wurde die erste Kreditkarte eingeführt?,Geschichte,1946,1950,1954,1958,1
+260,Wie viele Chromosomen hat eine Katze?,Biologie,36,38,40,42,1
+261,Wer entwickelte die erste GUI (Graphische Benutzeroberfläche)?,Technologie,Xerox PARC,Apple,Microsoft,IBM,0
+262,Welches Element macht Saphire blau?,Chemie,Kobalt,Kupfer,Eisen,Titan,0
+263,Wie viele Monde hat Jupiter?,Astronomie,63,67,79,95,2
+264,Welches ist der längste Knochen im menschlichen Körper?,Medizin,Oberschenkelknochen,Schienbein,Oberarmknochen,Wirbelsäule,0
+265,Wer erfand die erste mechanische Rechenmaschine?,Wissenschaft,Blaise Pascal,Charles Babbage,Gottfried Leibniz,Wilhelm Schickard,3
+266,Welches Land hat die meisten Nobelpreisträger?,Wissenschaft,USA,Großbritannien,Deutschland,Frankreich,0
+267,In welchem Jahr wurde der erste Taschenrechner erfunden?,Technologie,1957,1967,1977,1987,1
+268,Wie viele Muskeln hat eine Raupe?,Biologie,1000,2000,3000,4000,2
+269,Welches ist der älteste bekannte Musikstil?,Musik,Gregorianischer Choral,Hurrian Hymnen,Sumerische Hymnen,Ägyptische Hymnen,1
+270,Wer erfand das erste Antibiotikum?,Wissenschaft,Alexander Fleming,Louis Pasteur,Robert Koch,Joseph Lister,0
+271,Welches ist das am meisten recycelte Material der Welt?,Umwelt,Papier,Glas,Aluminium,Stahl,3
+272,In welchem Jahr wurde der erste Roboter gebaut?,Geschichte,1921,1931,1941,1951,1
+273,Wie viele Nerven hat das menschliche Auge?,Medizin,100.000,500.000,1.000.000,1.500.000,2
+274,Welches ist der häufigste Vorname der Welt?,Gesellschaft,Mohammed,Li,James,Juan,0
+275,Wer erfand den ersten Laser?,Wissenschaft,Theodore Maiman,Albert Einstein,Niels Bohr,Max Planck,0
+276,Welches ist der längste Film aller Zeiten?,Entertainment,Modern Times Forever,Logistics,The Cure for Insomnia,Ambiancé,1
+277,In welchem Jahr wurde die DNA entdeckt?,Wissenschaft,1869,1879,1889,1899,0
+278,Wie viele Zähne hat ein erwachsenes Pferd?,Biologie,24,32,40,44,3
+279,Welches ist das meist gesprochene Wort der Welt?,Sprache,OK,Mama,Coca-Cola,Google,0
+280,Wer erfand den ersten Düsenmotor?,Technologie,Frank Whittle,Hans von Ohain,Ernst Heinkel,Willy Messerschmitt,0
+281,Welches ist der teuerste Rohstoff der Welt?,Wirtschaft,Gold,Platin,Californium,Diamant,2
+282,In welchem Jahr wurde der erste Zeppelin gebaut?,Geschichte,1890,1900,1910,1920,1
+283,Wie viele Muskeln hat ein Elefantenrüssel?,Biologie,40000,50000,60000,70000,1
+284,Welches ist der älteste bekannte Name der Welt?,Geschichte,Kushim,Alulim,Narmer,Menes,0
+285,Wer entwickelte die erste Programmiersprache für Computer?,Technologie,Ada Lovelace,Grace Hopper,John von Neumann,Alan Turing,1
+286,Welches ist das meist gedruckte Buch aller Zeiten?,Literatur,Die Bibel,Der Koran,Das Rote Buch,Das Kommunistische Manifest,0
+287,In welchem Jahr wurde der erste Impfstoff entwickelt?,Medizin,1796,1806,1816,1826,0
+288,Wie viele Geschmacksrezeptoren hat ein Hai?,Biologie,100,500,1000,2000,1
+289,Welches ist der älteste bekannte Beruf der Welt?,Geschichte,Bauer,Händler,Jäger,Priester,2
+290,Wer erfand die erste Schreibmaschine?,Technologie,Christopher Latham Sholes,William Austin Burt,Giuseppe Ravizza,Peter Mitterhofer,1
+291,Welches ist der größte Süßwasserfisch der Welt?,Biologie,Arapaima,Belugastör,Europäischer Wels,Mekong-Riesenwels,3
+292,In welchem Jahr wurde der erste Herzschrittmacher erfunden?,Medizin,1948,1950,1952,1954,1
+293,Welches Element macht Flamingos pink?,Biologie,Beta-Carotin,Anthocyane,Carotinoide,Chlorophyll,0
+294,Wer erfand die erste Dampfmaschine?,Technologie,Thomas Newcomen,James Watt,Richard Trevithick,George Stephenson,0
+295,Wie viele Tasten hat ein Konzertflügel?,Musik,86,88,90,92,1
+296,Welches ist das am meisten kultivierte Obst der Welt?,Landwirtschaft,Äpfel,Bananen,Orangen,Tomaten,3
+297,Wer entwickelte das erste Betriebssystem?,Technologie,Ken Thompson,Dennis Ritchie,Gary Kildall,Bill Gates,0
+298,Welches ist der größte Asteroid im Sonnensystem?,Astronomie,Ceres,Vesta,Pallas,Hygiea,0
+299,In welchem Jahr wurde das erste U-Boot gebaut?,Geschichte,1620,1720,1820,1920,0
+300,Wie viele Wirbel hat eine Giraffe?,Biologie,5,7,9,11,1
+301,Welches ist das häufigste Element in der Erdkruste?,Chemie,Silizium,Aluminium,Eisen,Sauerstoff,3
+302,Wer erfand den ersten Taschenrechner?,Technologie,Texas Instruments,Casio,Sharp,HP,0
+303,Welches ist der älteste bekannte Tempel der Welt?,Geschichte,Göbekli Tepe,Stonehenge,Pyramiden von Gizeh,Pantheon,0
+304,Wie viele Geschmacksknospen hat ein Hund?,Biologie,1200,1700,2200,2700,1
+305,Wer entwickelte die erste Programmiersprache für KI?,Technologie,John McCarthy,Marvin Minsky,Alan Turing,Claude Shannon,0
+306,Welches ist der salzigste Ozean?,Geographie,Atlantik,Pazifik,Indischer Ozean,Arktischer Ozean,0
+307,In welchem Jahr wurde die erste Digitalkamera erfunden?,Technologie,1965,1975,1985,1995,1
+308,Wie viele Muskeln hat ein menschliches Ohr?,Biologie,3,4,5,6,3
+309,Welches ist der meistgesprochene Dialekt der Welt?,Sprache,Mandarin,Kantonesisch,Wu,Min,0
+310,Wer erfand den ersten Elektromotor?,Technologie,Michael Faraday,James Clerk Maxwell,André-Marie Ampère,Georg Ohm,0
+311,Welches ist das am tiefsten gelegene Land der Erde?,Geographie,Jordanien,Niederlande,Malediven,Tuvalu,0
+312,In welchem Jahr wurde der erste Röntgenapparat gebaut?,Medizin,1895,1900,1905,1910,0
+313,Wie viele Zähne hat ein Hund?,Biologie,32,36,42,46,2
+314,Welches ist der älteste bekannte Universität der Welt?,Bildung,Al-Qarawiyyin,Al-Azhar,Nalanda,Bologna,0
+315,Wer entwickelte die erste Computermaus?,Technologie,Douglas Engelbart,Ivan Sutherland,Ted Nelson,Vannevar Bush,0
+316,Welches ist das meistverkaufte Getränk der Welt nach Wasser?,Ernährung,Kaffee,Tee,Cola,Bier,1
+317,In welchem Jahr wurde das erste Mobiltelefon erfunden?,Technologie,1963,1973,1983,1993,1
+318,Wie viele Knochen hat ein Frosch?,Biologie,50,75,100,125,1
+319,Welches ist der meistgesprochene Konstruierte Sprache?,Sprache,Esperanto,Volapük,Interlingua,Klingonisch,0
+320,Wer erfand den ersten Synthesizer?,Technologie,Robert Moog,Don Buchla,Raymond Scott,Hugh Le Caine,0
+321,Welches ist das größte Amphitheater der Welt?,Geschichte,Kolosseum,Arena von Verona,Pula Arena,El Djem,0
+322,In welchem Jahr wurde der erste Computer-Virus geschrieben?,Technologie,1971,1981,1991,2001,0
+323,Wie viele Muskeln hat eine Spinne?,Biologie,248,348,448,548,2
+324,Welches ist der älteste bekannte Markenname der Welt?,Wirtschaft,Stella Artois,Lowenbrau,Weihenstephan,Bass,2
+325,Wer entwickelte die erste Programmiersprache für Web?,Technologie,Tim Berners-Lee,Brendan Eich,Larry Wall,Rasmus Lerdorf,1
+326,Welches ist das meistverkaufte Medikament aller Zeiten?,Medizin,Aspirin,Lipitor,Humira,Viagra,0
+327,In welchem Jahr wurde das erste Patent angemeldet?,Geschichte,1421,1521,1621,1721,2
+328,Wie viele Blutgruppen gibt es beim Menschen?,Medizin,4,6,8,10,2
+329,Welches ist der älteste bekannte Cocktail?,Getränke,Martini,Manhattan,Sazerac,Old Fashioned,2
+330,Wer erfand den ersten Verbrennungsmotor?,Technologie,Étienne Lenoir,Nikolaus Otto,Karl Benz,Gottlieb Daimler,0
+331,Welches ist das meistbesuchte Museum der Welt?,Kultur,Louvre,British Museum,Metropolitan Museum,Vatikanische Museen,0
+332,In welchem Jahr wurde die erste Zeitung gedruckt?,Geschichte,1605,1705,1805,1905,0
+333,Wie viele Knochen hat ein Pinguin?,Biologie,175,200,225,250,1
+334,Welches ist der älteste bekannte Wein der Welt?,Geschichte,Speyer Weinflasche,Tokaji,Château Lafite,Commandaria,0
+335,Wer entwickelte die erste Suchmaschine?,Technologie,Alan Emtage,Larry Page,Jerry Yang,David Filo,0
+336,Welches ist das meistverkaufte Spielzeug aller Zeiten?,Entertainment,Barbie,LEGO,Hot Wheels,Rubiks Würfel,1
+337,In welchem Jahr wurde die erste Brille erfunden?,Geschichte,1286,1386,1486,1586,0
+338,Wie viele Geschmacksrezeptoren hat ein Schmetterling?,Biologie,100,200,300,400,2
+339,Welches ist der älteste bekannte Sport?,Sport,Ringen,Laufen,Schwimmen,Boxen,0
+340,Wer erfand den ersten Roboter?,Technologie,George Devol,Joseph Engelberger,William Grey Walter,Alan Turing,2
+341,Welches ist der längste Tunnel der Welt?,Geographie,Gotthard-Basistunnel,Seikan-Tunnel,Channel Tunnel,Lærdal-Tunnel,0
+342,In welchem Jahr wurde die erste Brille mit Gläsern erfunden?,Geschichte,1285,1385,1485,1585,0
+343,Wie viele verschiedene Arten von Bienen gibt es weltweit?,Biologie,10000,15000,20000,25000,2
+344,Wer entwickelte die erste Blockchain?,Technologie,Satoshi Nakamoto,Vitalik Buterin,Nick Szabo,Hal Finney,0
+345,Welches ist das meistgesprochene Kunstwort?,Sprache,OK,Coca-Cola,Google,Kodak,0
+346,In welchem Jahr wurde der erste Mikrowellenherd erfunden?,Technologie,1946,1956,1966,1976,0
+347,Wie viele Muskeln braucht ein Mensch zum Gehen?,Biologie,100,200,300,400,2
+348,Welches ist der älteste bekannte Käse?,Geschichte,Roquefort,Cheddar,Feta,Parmigiano,0
+349,Wer erfand die erste Digitalkamera?,Technologie,Steven Sasson,George Smith,Willard Boyle,Eugene Lally,0
+350,Welches ist das meistverkaufte Instrument der Welt?,Musik,Gitarre,Klavier,Violine,Flöte,0
+351,In welchem Jahr wurde das erste Videospiel entwickelt?,Technologie,1958,1962,1966,1970,1
+352,Wie viele Geschmacksrezeptoren hat eine Biene?,Biologie,10,50,100,170,3
+353,Welches ist der älteste bekannte Beruf?,Geschichte,Schamane,Händler,Bauer,Handwerker,0
+354,Wer entwickelte das erste Antivirenprogramm?,Technologie,John McAfee,Peter Norton,Eugene Kaspersky,Bernd Fix,3
+355,Welches ist das meistverkaufte Gewürz der Welt?,Ernährung,Pfeffer,Zimt,Kurkuma,Ingwer,0
+356,In welchem Jahr wurde der erste Kühlschrank erfunden?,Geschichte,1834,1844,1854,1864,0
+357,Wie viele Knochen hat ein Hai?,Biologie,0,10,20,30,0
+358,Welches ist der älteste bekannte Baum?,Natur,Methuselah,Old Tjikko,Prometheus,Alerce Milenario,0
+359,Wer erfand den ersten Tintenstrahldrucker?,Technologie,Chester Carlson,Gary Starkweather,Hans Hillborg,Ichiro Endo,3
+360,Welches ist das meistverkaufte Parfüm aller Zeiten?,Lifestyle,Chanel No. 5,J'adore,Light Blue,Angel,0
+361,In welchem Jahr wurde die erste Waschmaschine erfunden?,Geschichte,1851,1861,1871,1881,0
+362,Wie viele Geschmacksknospen hat ein Kaninchen?,Biologie,10000,15000,17000,20000,2
+363,Welches ist der älteste bekannte Film?,Geschichte,Roundhay Garden Scene,Horse in Motion,Workers Leaving,Train Arrival,0
+364,Wer entwickelte das erste Smartphone?,Technologie,IBM,Apple,BlackBerry,Nokia,0
+365,Welches ist das meistverkaufte Medikament der Welt?,Medizin,Aspirin,Paracetamol,Ibuprofen,Morphin,1
+366,In welchem Jahr wurde der erste Fernseher erfunden?,Geschichte,1925,1927,1929,1931,1
+367,Wie viele Zähne hat ein Hai im Durchschnitt?,Biologie,20,30,40,50,3
+368,Welches ist der älteste bekannte Marktplatz?,Geschichte,Agora Athen,Forum Romanum,Suk Damaskus,Basar Istanbul,2
+369,Wer erfand den ersten Touchscreen?,Technologie,E.A. Johnson,George Samuel Hurst,Bill Buxton,Alan Kay,0
+370,Welches ist das meistverkaufte Brettspiel aller Zeiten?,Spiele,Monopoly,Schach,Dame,Scrabble,1
+371,In welchem Jahr wurde die erste Kontaktlinse entwickelt?,Geschichte,1887,1897,1907,1917,0
+372,Wie viele Muskeln hat ein Elefantenrüssel?,Biologie,40000,50000,60000,70000,1
+373,Welches ist der älteste bekannte Markenname?,Wirtschaft,Stella Artois,Lowenbrau,Weihenstephan,Bass,2
+374,Wer entwickelte das erste soziale Netzwerk?,Technologie,Tom Anderson,Mark Zuckerberg,Reid Hoffman,Jonathan Abrams,3
+375,Welches ist das meistverkaufte Süßigkeit aller Zeiten?,Ernährung,M&Ms,Snickers,Milky Way,Kit Kat,0
+376,In welchem Jahr wurde der erste Computer-Virus entdeckt?,Technologie,1971,1981,1991,2001,0
+377,Wie viele Knochen hat ein Kolibri?,Biologie,100,150,200,250,2
+378,Welches ist der älteste bekannte Hafen?,Geschichte,Byblos,Sidon,Tyros,Beirut,0
+379,Wer erfand den ersten Laptop?,Technologie,Adam Osborne,Alan Kay,Steve Jobs,Bill Gates,0
+380,Welches ist das meistverkaufte Auto aller Zeiten?,Automobil,VW Käfer,Toyota Corolla,Ford Model T,Ford F-Series,1
+381,In welchem Jahr wurde das erste E-Book veröffentlicht?,Technologie,1971,1981,1991,2001,0
+382,Wie viele Muskeln hat ein Delfin?,Biologie,500,1000,1500,2000,2
+383,Welches ist der älteste bekannte Leuchtturm?,Geschichte,Pharos,Cordouan,Tower of Hercules,Kõpu,0
+384,Wer entwickelte das erste Videospiel?,Technologie,Ralph Baer,Nolan Bushnell,William Higinbotham,Steve Russell,2
+385,Welches ist das meistverkaufte Getränk nach Wasser?,Ernährung,Tee,Kaffee,Cola,Bier,0
+386,In welchem Jahr wurde der erste Mikrochip entwickelt?,Technologie,1958,1960,1962,1964,0
+387,Wie viele Geschmacksknospen hat ein Papagei?,Biologie,200,300,400,500,2
+388,Welches ist der älteste bekannte Kalender?,Geschichte,Maya,Ägyptisch,Sumerisch,Babylonisch,2
+389,Wer erfand den ersten Farbfernseher?,Technologie,Peter Goldmark,John Logie Baird,Vladimir Zworykin,Philo Farnsworth,0
+390,Welches ist das meistverkaufte Musikinstrument der Welt?,Musik,Gitarre,Klavier,Violine,Flöte,0
