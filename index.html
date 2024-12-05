@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OwlQuest - Steigere dein Allgemeinwissen</title>
+
+    <!-- Standard Favicon -->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+
+    <!-- Alternative Favicon Formate für bessere Browserkompatibilität -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/favicon-16x16.png"
+    />
+
+    <!-- Apple Touch Icons für iOS Geräte -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/apple-touch-icon.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="assets/apple-touch-icon-ipad-retina-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="assets/apple-touch-icon-iphone-retina-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="assets/apple-touch-icon-ipad-76x76.png"
+    />
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="background-pattern"></div>
+
+    <!-- Startbildschirm -->
+    <main class="welcome-screen active">
+      <div class="logo-container">
+        <img src="assets/owlquest-logo.svg" alt="OwlQuest Logo" class="logo" />
+      </div>
+      <div class="content">
+        <h1>
+          WILLKOMMEN BEI
+          <img
+            src="assets/owlquest-logo-font.svg"
+            alt="OwlQuest"
+            class="inline-logo"
+          />
+        </h1>
+        <p class="subtitle">
+          Der Plattform, um dein Allgemeinwissen spielerisch zu steigern
+        </p>
+
+        <div class="quiz-settings">
+          <div class="setting-group">
+            <label for="questionCount">Anzahl der Fragen:</label>
+            <select id="questionCount" class="setting-select">
+              <option value="5">5 Fragen</option>
+              <option value="10" selected>10 Fragen</option>
+              <option value="15">15 Fragen</option>
+              <option value="20">20 Fragen</option>
+              <option value="25">25 Fragen</option>
+              <option value="30">Alle Fragen</option>
+            </select>
+          </div>
+
+          <div class="setting-group">
+            <label>Wähle Kategorien:</label>
+            <div id="categories" class="categories-grid">
+              <!-- Wird dynamisch befüllt -->
+            </div>
+          </div>
+        </div>
+
+        <button class="start-button">Quiz jetzt starten</button>
+      </div>
+    </main>
+
+    <!-- Quiz-Bildschirm -->
+    <div class="quiz-screen">
+      <header class="quiz-header">
+        <img
+          src="assets/owlquest-logo.svg"
+          alt="OwlQuest Logo"
+          class="logo home-link"
+        />
+        <div class="header-right">
+          <a href="#" class="contact-link">Contact</a>
+          <button class="start-button">Starten</button>
+        </div>
+      </header>
+
+      <main class="quiz-container">
+        <h2>ALLGEMEINWISSEN</h2>
+        <div class="question-counter">Frage 1 von 10</div>
+        <div class="quiz-card">
+          <div class="category-label">KATEGORIE</div>
+          <div class="question-box">
+            <h3 id="question-text">Kannst du hier die Frage formulieren?</h3>
+            <p class="instruction">Wähle eine Antwort</p>
+          </div>
+          <div class="answers-grid">
+            <button class="answer-button" data-index="0">Antwort 01</button>
+            <button class="answer-button" data-index="1">Antwort 02</button>
+            <button class="answer-button" data-index="2">Antwort 03</button>
+            <button class="answer-button" data-index="3">Antwort 04</button>
+          </div>
+        </div>
+        <div class="quiz-summary" style="display: none">
+          <div class="summary-buttons">
+            <button class="summary-button retry">Noch einmal</button>
+            <button class="summary-button home">Zurück zum Homescreen</button>
+          </div>
+          <h2>Quiz Auswertung</h2>
+          <div class="summary-content">
+            <!-- Wird dynamisch befüllt -->
+          </div>
+        </div>
+
+        <div class="illustrations">
+          <img src="assets/character-left.svg" alt="" class="character left" />
+          <img
+            src="assets/character-right.svg"
+            alt=""
+            class="character right"
+          />
+        </div>
+      </main>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

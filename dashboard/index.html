@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OwlQuest Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="background-pattern"></div>
+
+    <div class="dashboard-container">
+      <!-- Linke Sidebar -->
+      <aside class="sidebar">
+        <div class="logo-container">
+          <img
+            src="../assets/owlquest-logo.svg"
+            alt="OwlQuest Logo"
+            class="logo"
+          />
+        </div>
+
+        <nav class="sidebar-nav">
+            <a href="#" class="nav-item" data-view="add-question">
+                <span class="icon">
+                    <img src="../assets/plus-icon.svg" alt="Add" class="nav-icon">
+                </span>
+                Frage hinzufügen
+            </a>
+            <a href="#" class="nav-item active" data-view="manage-questions">
+                <span class="icon">
+                    <img src="../assets/list-icon.svg" alt="Manage" class="nav-icon">
+                </span>
+                Fragen verwalten
+            </a>
+        </nav>
+
+        <div class="clumsy-character">
+          <img
+            src="../assets/character-left.svg"
+            alt="Clumsy Character"
+            class="character"
+          />
+        </div>
+      </aside>
+
+      <!-- Hauptbereich -->
+      <main class="main-content">
+        <div class="content-header">
+          <h1>Fragen verwalten</h1>
+        </div>
+        <div class="content-body">
+          <div class="table-container">
+            <table class="questions-table">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Frage</th>
+                  <th>Aktionen</th>
+                </tr>
+              </thead>
+              <tbody>
+                <!-- Wird dynamisch befüllt -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <!-- Edit/Add Question Modal -->
+    <div class="modal-overlay" id="editQuestionModal" style="display: none;">
+      <div class="modal">
+        <div class="modal-header">
+          <h2 id="modalTitle">Frage bearbeiten</h2>
+          <button class="close-modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <form id="questionForm" novalidate>
+          <div class="form-group">
+            <label>Frage formulieren</label>
+              <input type="text" id="questionText" placeholder="Deine Frage" required>
+              <div class="error-message"></div>
+          </div>
+
+            <div class="answers-grid">
+          <div class="form-group">
+                <label>Richtige Antwort</label>
+                <input type="text" id="correctAnswer" placeholder="richtige Antwort schreiben" required>
+                <div class="error-message"></div>
+              </div>
+          <div class="form-group">
+                <label>Falschantwort #1</label>
+                <input type="text" id="wrongAnswer1" placeholder="falsche Antwort schreiben" required>
+                <div class="error-message"></div>
+              </div>
+          <div class="form-group">
+                <label>Falschantwort #2</label>
+                <input type="text" id="wrongAnswer2" placeholder="falsche Antwort schreiben" required>
+                <div class="error-message"></div>
+              </div>
+          <div class="form-group">
+                <label>Falschantwort #3</label>
+                <input type="text" id="wrongAnswer3" placeholder="falsche Antwort schreiben" required>
+                <div class="error-message"></div>
+          </div>
+        </div>
+            <div class="form-group">
+              <label>Kategorie</label>
+              <select id="categorySelect" required>
+                <option value="">Kategorie wählen</option>
+                <option value="new">+ Neue Kategorie erstellen</option>
+              </select>
+              <div class="error-message"></div>
+        </div>
+          </form>
+    </div>
+        <div class="modal-footer">
+            <button class="btn btn-primary save-question">
+                <span class="icon">
+                    <img src="../assets/save-icon.svg" alt="Save" class="button-icon">
+                </span>
+                <span class="button-text">Speichern</span>
+            </button>
+            <button class="btn btn-secondary cancel-edit">
+                <span class="icon">
+                    <img src="../assets/cancel-icon.svg" alt="Cancel" class="button-icon">
+                </span>
+                <span class="button-text">Abbrechen</span>
+            </button>
+        </div>
+          </div>
+        </div>
+
+    <!-- New Category Modal -->
+    <div class="modal-overlay" id="newCategoryModal" style="display: none;">
+      <div class="modal">
+        <div class="modal-header">
+          <h2>Neue Kategorie</h2>
+          <button class="close-modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="form-group">
+            <label>Kategoriename</label>
+            <input type="text" id="newCategoryName" placeholder="Neue Kategorie">
+            <div class="error-message"></div>
+      </div>
+    </div>
+        <div class="modal-footer">
+          <button class="btn btn-primary save-category">OK</button>
+          <button class="btn btn-secondary cancel-category">Abbrechen</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Confirmation Dialog -->
+    <div class="dialog-overlay" style="display: none;">
+      <div class="dialog">
+        <h2>Frage löschen?</h2>
+        <div class="dialog-buttons">
+          <button class="dialog-button delete">Ja, löschen</button>
+          <button class="dialog-button cancel">Abbrechen</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
